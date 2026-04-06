@@ -81,7 +81,7 @@ Built by **Chidvi Meduri** — MS Business Analytics, UMass Boston.
 Certified in Power BI (PL-300) and AWS Cloud Practitioner.
 This project was built to solve a real problem I face as an H-1B visa seeker navigating the US job market.
 
-[LinkedIn](#) · [GitHub](https://github.com/Chidvy)
+[LinkedIn](www.linkedin.com/in/durga-c-meduri) · [GitHub](https://github.com/Chidvy)
 
 ---
 
