@@ -1,0 +1,1535 @@
+EMPLOYER_NAME,SCORE,CERT_RATE,AVG_WAGE,TOTAL_CASES,AVG_LEVEL
+Humana Inc.,91.6,97.5,229564.0,80.0,3.2
+EMC Corporation,90.6,98.4,289056.0,62.0,3.0
+"Netflix, Inc.",89.1,100.0,441521.0,80.0,4.0
+"Dept of Medicine Medical Service Group at SUNY-HSC at Syracuse, Inc.",87.0,100.0,203296.0,11.0,3.7
+"HubSpot, Inc.",86.8,96.9,433759.0,32.0,3.0
+Dollar General Corporation,86.4,100.0,453970.0,17.0,2.9
+"Florida Hospital Medical Group, Inc. ",86.3,100.0,351353.0,13.0,3.0
+"PPD Development, L.P.",85.9,100.0,191204.0,26.0,2.7
+University of Pittsburgh Physicians,85.8,100.0,256473.0,18.0,3.5
+Florida Power & Light Company,85.5,91.7,379498.0,24.0,3.3
+"OpenAI OpCo, LLC",85.3,95.7,332370.0,23.0,3.0
+"HealthEquity, Inc.",85.2,100.0,314085.0,11.0,2.8
+"Tiger Analytics, Inc.",84.4,94.3,316300.0,35.0,2.6
+CITADEL SECURITIES AMERICAS SERVICES LLC,84.1,100.0,233542.0,24.0,2.3
+ADVENTIST HEALTH SYSTEM SUNBELT HEALTHCARE CORP,83.7,100.0,141390.0,12.0,3.1
+The University of Iowa,83.4,100.0,171256.0,64.0,1.4
+UNIVERSITY OF MIAMI,82.4,90.4,372996.0,73.0,1.8
+"Equinix, Inc.",81.7,100.0,239500.0,16.0,2.8
+High Point University,81.4,100.0,158470.0,10.0,2.3
+"Arrow Electronics, Inc.",81.1,89.5,496673.0,19.0,2.7
+Intellisoft Systems LLC,81.1,100.0,486203.0,11.0,2.0
+Montefiore Medical Center,81.0,100.0,219801.0,10.0,2.0
+University of Texas Medical Branch,80.8,100.0,167359.0,22.0,1.7
+W.M. RICE UNIVERSITY,80.8,100.0,370028.0,15.0,1.9
+"ZS Associates, Inc.",80.8,97.5,198991.0,81.0,3.3
+"Sinai Hospital of Baltimore, Inc.",80.7,100.0,184674.0,14.0,1.9
+VCU Health System Authority,80.1,100.0,265038.0,18.0,1.7
+GLOBAL ATLANTIC FINANCIAL COMPANY,80.1,93.3,255215.0,15.0,2.9
+Mayo Clinic,79.8,99.0,179106.0,98.0,2.9
+"Charleston Area Medical Center, Inc.",79.7,100.0,461390.0,11.0,1.7
+Cleveland Clinic Foundation,79.7,76.3,234067.0,38.0,3.1
+Houston Independent School District,79.6,100.0,283362.0,18.0,1.6
+University of Arkansas for Medical Sciences,79.4,100.0,173468.0,21.0,2.3
+Cleveland Clinic,79.4,84.6,486944.0,13.0,2.8
+"Teleworld Solutions, Inc.",79.3,88.9,271158.0,18.0,2.4
+University of Utah,78.9,90.4,147059.0,52.0,1.6
+CITADEL ENTERPRISE AMERICAS SERVICES LLC,78.8,100.0,227500.0,10.0,2.2
+University of Oklahoma Health Sciences Center,78.7,100.0,154640.0,18.0,1.4
+CITADEL AMERICAS SERVICES LLC,78.7,100.0,186923.0,39.0,2.2
+"BOFA SECURITIES, INC.",78.5,100.0,248289.0,21.0,3.0
+"McKinsey & Company, Inc. United States",78.3,100.0,192487.0,61.0,2.5
+Willsmarg Technologies LLC,78.1,100.0,224997.0,13.0,2.2
+Encora Digital LLC,77.9,90.9,252910.0,11.0,2.1
+Idexcel Inc,77.6,95.8,324729.0,24.0,1.4
+UNIVERSITY OF FLORIDA,77.5,74.1,129890.0,143.0,1.6
+"Ellis, Bandt, Birkin, Kollins and Wong, PLLC",77.4,100.0,450000.0,10.0,2.0
+P2P Softtek LLC,76.7,100.0,242488.0,13.0,2.0
+Presbyterian Healthcare Services,76.6,100.0,168461.0,10.0,1.8
+"Jane Street Group, LLC",76.4,100.0,263500.0,10.0,3.6
+ARUP Laboratories,76.3,100.0,75864.0,36.0,2.9
+TE Connectivity Corporation,76.3,100.0,212674.0,18.0,2.8
+Howard Hughes Medical Institute,76.1,80.6,151508.0,36.0,2.1
+"AlixPartners, LLP",75.9,100.0,198467.0,15.0,2.9
+Medical University of South Carolina and Affiliates,75.8,84.2,255576.0,19.0,2.1
+Roblox Corporation,75.6,100.0,276511.0,49.0,3.6
+Lawrence Berkeley National Laboratory,75.4,100.0,152316.0,38.0,2.6
+Vanderbilt University Medical Center,75.3,85.7,161109.0,28.0,1.6
+PwC US Tax LLP,74.6,100.0,186857.0,28.0,3.3
+Waymo LLC,74.4,100.0,278316.0,38.0,2.9
+"AT&T SERVICES, INC.",74.3,97.6,170247.0,125.0,3.2
+West Virginia University Medical Corporation,74.3,88.9,327985.0,36.0,1.0
+BANK OF AMERICA N.A.,74.2,99.3,172377.0,136.0,2.9
+Texas Tech University Health Sciences Center El Paso,74.1,91.7,195427.0,12.0,1.2
+"Toyota  Motor Engineering & Manufacturing North America, Inc. (TEMA)",73.9,96.8,188668.0,63.0,3.3
+PRICEWATERHOUSECOOPERS ADVISORY SERVICES LLC,73.8,100.0,187788.0,164.0,2.7
+Ernst & Young U.S. LLP,73.8,92.5,172427.0,1528.0,2.7
+"Capital One Services, LLC",73.8,100.0,184949.0,150.0,3.5
+West Virginia University,73.8,83.1,111700.0,59.0,1.3
+Capgemini America Inc,73.4,94.7,160556.0,246.0,2.7
+New York University,73.3,96.3,117089.0,54.0,2.0
+"Meta Platforms, Inc",73.2,100.0,217475.0,854.0,3.3
+"Boston Consulting Group, Inc.",73.2,81.3,190976.0,91.0,3.4
+Visa U.S.A. Inc.,72.9,94.3,217824.0,70.0,3.3
+Eli Lilly and Company,72.8,100.0,143927.0,110.0,3.2
+"Medical College of Wisconsin, Inc.",72.6,76.9,213532.0,26.0,1.8
+Accenture LLP,72.5,99.2,147494.0,592.0,3.4
+UNIVERSITY OF CENTRAL FLORIDA,72.5,81.2,154730.0,16.0,1.7
+"SAP America, Inc.",72.5,100.0,169724.0,74.0,3.5
+University of Minnesota,72.4,65.4,239871.0,78.0,1.7
+"BAIN & COMPANY, INC.",72.4,100.0,215527.0,13.0,3.6
+Schonfeld Strategic Advisors LLC,72.2,90.9,212845.0,11.0,2.4
+"Reddit, Inc. ",72.2,96.3,260166.0,27.0,3.2
+Henry Ford Health System,72.2,94.5,147817.0,55.0,2.5
+Oregon Health & Science University,72.2,87.9,156376.0,33.0,1.7
+"Citibank, N.A.",72.2,97.4,159531.0,429.0,3.5
+"Cornerstone Research, Inc.",72.2,100.0,191720.0,15.0,2.0
+Citigroup Global Markets Inc.,72.1,100.0,193291.0,41.0,2.5
+"Medtronic, Inc.",72.1,93.3,187154.0,45.0,2.6
+Uber Freight US LLC,71.9,100.0,192766.0,36.0,3.2
+WGU Corporation,71.6,100.0,142871.0,22.0,3.6
+General Hospital Corporation,71.6,84.0,159761.0,81.0,1.5
+"Block, Inc.",71.6,100.0,219578.0,30.0,3.7
+"SPOTIFY USA, INC.",71.6,100.0,209635.0,11.0,2.7
+Morgan Stanley Services Group Inc.,71.5,99.4,168970.0,168.0,2.6
+"Hartford HealthCare Medical Group, Inc.",71.5,80.0,355240.0,10.0,1.7
+"Morgan Stanley & Co., LLC",71.4,100.0,207889.0,18.0,2.6
+"Credit Karma, LLC",71.3,100.0,235878.0,12.0,3.8
+Government Employee Insurance Company (GEICO),71.3,99.2,177999.0,120.0,3.0
+"Collaborative Solutions, LLC",71.3,100.0,179701.0,11.0,3.5
+"People Center, Inc. d/b/a Rippling",71.3,100.0,237201.0,25.0,3.2
+SQUAREPOINT SERVICES US LLC,71.2,100.0,211576.0,11.0,3.0
+General Motors,71.1,98.4,151735.0,189.0,3.4
+WILLIS TOWERS WATSON US LLC,71.0,100.0,127023.0,16.0,2.6
+"Charles Schwab & Company, Inc.",71.0,99.2,159955.0,124.0,3.4
+"Lucid USA, Inc.",70.9,96.5,176853.0,143.0,3.3
+ByteDance Inc.,70.8,97.9,206776.0,95.0,2.3
+JPMorgan Chase & Co.,70.7,99.7,166521.0,611.0,3.1
+"Emory Healthcare, Inc.",70.7,100.0,140962.0,11.0,3.5
+"DoorDash, Inc.",70.5,100.0,185515.0,104.0,3.0
+Dell Products L.P.,70.5,100.0,171434.0,58.0,3.4
+Barclays Capital Inc. ,70.4,100.0,222105.0,25.0,3.3
+Caremark LLC,70.3,100.0,151892.0,103.0,3.2
+Stanley Black & Decker Inc.,70.3,100.0,169570.0,11.0,3.5
+Home Depot Management Company LLC,70.0,100.0,139880.0,70.0,3.3
+FLORIDA INTERNATIONAL UNIVERSITY,69.9,77.8,122183.0,27.0,1.2
+Battelle Memorial Institute,69.9,82.3,120009.0,79.0,2.2
+AbbVie Inc.,69.8,100.0,154189.0,24.0,3.2
+AMAZON.COM SERVICES LLC,69.8,99.6,177537.0,243.0,2.3
+"WAL-MART ASSOCIATES, INC.",69.7,98.0,153166.0,697.0,2.6
+AstraZeneca Pharmaceuticals LP,69.6,100.0,179943.0,21.0,2.9
+Texas State University,69.5,79.2,294162.0,24.0,1.1
+Mphasis Corporation ,69.4,100.0,109213.0,87.0,1.8
+"Uber Technologies, Inc.",69.4,100.0,199979.0,141.0,2.9
+Barclays Services Corp. ,69.4,99.1,167584.0,106.0,2.7
+University of North Carolina at Charlotte,69.3,81.8,111550.0,11.0,1.1
+"Salesforce, Inc.",69.3,85.3,217236.0,442.0,3.1
+"Mastercard Technologies, LLC",69.2,98.5,137713.0,137.0,2.7
+"Datadog, Inc.",69.2,100.0,215217.0,25.0,3.3
+"CoreWeave, Inc.",69.1,100.0,217232.0,19.0,2.2
+TikTok Inc.,69.1,99.4,200633.0,165.0,2.7
+ST. JUDE CHILDREN'S RESEARCH HOSPITAL,69.1,99.0,86595.0,102.0,2.1
+Amazon.com Services LLC,69.0,99.6,174559.0,2544.0,2.3
+CVS Pharmacy Inc.,69.0,97.4,155519.0,114.0,3.3
+"Amazon Web Services, Inc.",68.9,99.4,163871.0,484.0,2.4
+Dell USA L.P.,68.9,100.0,157577.0,54.0,3.4
+BYTEDANCE INC.,68.8,98.9,219227.0,94.0,3.0
+"Micron Technology, Inc.",68.4,96.2,152845.0,80.0,2.7
+"A.T. Kearney, Inc.",68.4,86.7,210533.0,15.0,3.6
+PwC US Consulting LLP,68.4,97.7,213510.0,43.0,2.6
+GOLDMAN SACHS SERVICES LLC,68.4,100.0,146057.0,87.0,2.4
+The University of Alabama in Huntsville,68.3,92.3,101714.0,13.0,1.4
+CyberSource Corporation,68.2,100.0,201031.0,36.0,2.9
+Deloitte Consulting LLP,68.2,99.0,151106.0,1042.0,2.8
+Deloitte Tax LLP,68.2,100.0,127128.0,136.0,2.9
+"VIDANT MEDICAL GROUP, LLC",68.2,76.9,294436.0,13.0,1.2
+"JUMP OPERATIONS, LLC",68.2,100.0,225000.0,15.0,3.8
+Honeywell International Inc.,68.2,100.0,172299.0,12.0,3.6
+Lex Nimble Solutions Inc.,68.1,90.9,147699.0,22.0,2.5
+"Turner & Townsend, Inc.",68.1,94.4,152403.0,18.0,3.7
+"NIKE, Inc.",68.1,100.0,180744.0,46.0,3.3
+"Amazon Data Services, Inc",67.9,100.0,149165.0,145.0,2.0
+Tredence Inc. ,67.9,97.1,159427.0,34.0,2.4
+Pacific Investment Management Company LLC,67.9,100.0,156100.0,15.0,2.5
+"Advanced Micro Devices, Inc.",67.9,100.0,175940.0,125.0,3.0
+University of Illinois Chicago,67.8,96.0,113401.0,50.0,1.8
+Icahn School of Medicine at Mount Sinai,67.8,98.9,107855.0,87.0,2.1
+McKesson Corporation,67.7,100.0,172954.0,25.0,3.3
+"American Express Travel Related Services Company, Inc.",67.6,94.9,159580.0,156.0,3.1
+"RANDSTAD DIGITAL, LLC",67.6,100.0,132731.0,190.0,2.0
+"The Vanguard Group, Inc.",67.6,100.0,165754.0,48.0,3.2
+"Two Sigma Investments, LP",67.6,95.0,224400.0,20.0,4.0
+Dell Marketing L.P.,67.6,100.0,170849.0,23.0,3.5
+State University of New York at Stony Brook,67.5,92.9,98573.0,14.0,2.0
+Federal Express Corporation,67.5,99.1,117024.0,108.0,2.8
+Thomas Jefferson University,67.5,100.0,102588.0,15.0,1.5
+"MedStar Medical Group II, LLC",67.4,100.0,260375.0,11.0,2.2
+McDonald's Corporation,67.4,100.0,178479.0,20.0,3.6
+"Fayette Physician Network, Inc.",67.4,75.0,324993.0,12.0,1.2
+"UT-BATTELLE, LLC (OAK RIDGE NATIONAL LABORATORY)",67.4,78.8,120723.0,80.0,2.1
+Deloitte & Touche LLP,67.3,100.0,143572.0,212.0,2.9
+Adobe Inc.,67.2,100.0,207953.0,134.0,2.5
+The Florida State University,67.2,89.7,94529.0,39.0,1.2
+PRICEWATERHOUSECOOPERS LLP,67.2,100.0,158706.0,17.0,3.1
+"AMAZON WEB SERVICES, INC.",67.2,100.0,173076.0,62.0,2.4
+Aetna Resources LLC,67.2,100.0,148841.0,71.0,3.2
+"Crusoe Energy Systems, Inc.",67.2,100.0,203786.0,14.0,3.9
+HTC GLOBAL SERVICES INC.,67.1,94.9,118303.0,98.0,3.1
+Populus Group LLC,67.0,95.2,132964.0,83.0,2.5
+"United Wholesale Mortgage, LLC",67.0,95.7,150246.0,47.0,2.6
+Cigna-Evernorth Services Inc.,67.0,93.4,148498.0,106.0,3.2
+NVIDIA Corporation,67.0,99.6,199663.0,460.0,3.1
+BNP PARIBAS RCC INC.,67.0,100.0,171409.0,11.0,2.7
+Intuit Inc.,66.9,96.7,185267.0,120.0,2.8
+"The Leland Stanford, Jr University",66.9,95.2,107175.0,124.0,1.4
+"Paycom Payroll, LLC",66.8,100.0,165773.0,43.0,2.6
+Bristol-Myers Squibb Company,66.8,97.1,163931.0,34.0,3.4
+OKBL USA Technology Inc.,66.7,100.0,261942.0,11.0,3.2
+"Cox Automotive Corporate Services, LLC",66.7,100.0,172128.0,25.0,3.4
+"Adventist Health System/Sunbelt, Inc. ",66.7,93.3,80786.0,15.0,2.5
+Geisinger Clinic,66.6,72.7,311973.0,11.0,1.3
+City of Hope National Medical Center,66.6,100.0,140873.0,15.0,2.4
+Amgen Inc.,66.6,100.0,144305.0,65.0,2.6
+"Publix Super Markets, Inc.",66.6,100.0,167048.0,18.0,4.0
+"Elevance Health, Inc.",66.5,93.0,143070.0,114.0,3.1
+UST Global Inc,66.3,100.0,116871.0,114.0,2.1
+TikTok U.S. Data Security Inc.,66.2,98.4,198835.0,124.0,2.5
+"BATTELLE ENERGY ALLIANCE, LLC",66.2,81.0,131581.0,21.0,3.0
+FORD MOTOR COMPANY,66.1,98.4,130743.0,185.0,2.9
+United Services Automobile Association,66.1,100.0,174024.0,22.0,3.5
+OSF Multi-Specialty Group ,66.1,76.9,330880.0,13.0,2.0
+"Confluent, Inc.",66.1,97.1,205713.0,34.0,3.0
+"Cisco Systems, Inc.",65.9,99.5,157461.0,193.0,2.7
+"Infinite Computer Solutions, Inc.",65.9,98.0,118694.0,153.0,2.4
+Microsoft Corporation,65.9,95.3,175385.0,1854.0,2.6
+"AMAZON DATA SERVICES, INC.",65.8,100.0,175890.0,11.0,2.5
+"Roku, Inc.",65.8,100.0,208437.0,10.0,3.5
+HCL AMERICA INC,65.8,97.9,116500.0,666.0,2.3
+"Cumming Management Group, Inc.",65.7,100.0,131250.0,17.0,2.5
+"RELX, Inc.",65.7,100.0,143902.0,52.0,2.7
+ABBVIE INC.,65.7,96.2,163973.0,26.0,3.1
+Visa Technology & Operations LLC,65.6,98.0,151198.0,101.0,3.1
+"BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.",65.6,100.0,160569.0,10.0,3.4
+Mount Sinai Hospital,65.5,100.0,140545.0,22.0,2.2
+Fred Hutchinson Cancer Center,65.5,95.0,102244.0,20.0,3.0
+Navy Federal Credit Union,65.5,100.0,162885.0,77.0,2.5
+"ValueMomentum, Inc.",65.4,100.0,144419.0,10.0,2.4
+UBS Business Solutions US LLC,65.3,92.4,148535.0,92.0,2.8
+University of North Carolina Wilmington,65.3,90.0,89375.0,10.0,1.0
+University of Rochester,65.3,95.5,103748.0,67.0,1.7
+"Asurion, LLC",65.3,100.0,164189.0,19.0,2.7
+IBM Corporation,65.2,89.6,143984.0,463.0,3.0
+COGNIZANT TECHNOLOGY SOLUTIONS US CORP,65.2,99.4,116344.0,2506.0,3.0
+CAPGEMINI AMERICA INC,65.1,91.2,133760.0,386.0,2.7
+"Qualcomm Technologies, Inc.",65.1,99.6,158444.0,249.0,2.8
+University of South Carolina,65.1,100.0,93206.0,21.0,1.0
+The Sphere Institute ,65.1,100.0,100676.0,24.0,2.8
+"Coinbase, Inc.",65.1,100.0,207570.0,27.0,2.7
+Deere & Company,65.0,89.3,150930.0,56.0,3.3
+State Street Bank and Trust Company,65.0,100.0,132839.0,98.0,2.5
+HEALTH CARE SERVICE CORPORATION,65.0,98.6,128834.0,69.0,3.5
+CVS Shared Services Resources LLC,65.0,98.5,150542.0,66.0,2.9
+"T-Mobile USA, Inc.",64.9,89.7,152549.0,126.0,2.7
+Genpact LLC,64.9,86.8,154588.0,53.0,2.7
+"Databricks, Inc.",64.9,100.0,171837.0,67.0,3.2
+Educational Testing Service,64.9,100.0,137310.0,36.0,3.5
+"Woven by Toyota, U.S., Inc.",64.9,100.0,211446.0,10.0,3.5
+Adventist Health System/Sunbelt Inc. ,64.9,90.9,78905.0,11.0,2.5
+"Amazon Development Center U.S., Inc.",64.8,99.3,165737.0,267.0,2.1
+FCA US LLC,64.8,91.4,131088.0,93.0,3.3
+Old Dominion University,64.7,95.5,100504.0,22.0,1.2
+Intel Corporation ,64.7,100.0,144339.0,281.0,2.7
+"Oracle America, Inc.",64.7,98.5,156373.0,270.0,3.1
+"Worldpay, LLC ",64.6,91.7,151814.0,36.0,2.7
+Biogen Inc.,64.6,100.0,164396.0,18.0,3.5
+"H. LEE MOFFITT CANCER CENTER & RESEARCH INSTITUTE, INC.",64.6,85.7,94403.0,21.0,3.3
+ACSA ASDN EDUCATION SERVICES,64.5,58.3,302650.0,12.0,2.0
+"Capital One, National Association",64.5,100.0,147252.0,67.0,2.8
+"Deloitte Touche Tohmatsu Services, LLC",64.4,100.0,143681.0,10.0,3.6
+The Bank of New York Mellon,64.4,100.0,159471.0,23.0,3.4
+Apple Inc.,64.4,99.9,185305.0,1458.0,2.7
+"Expedia, Inc. ",64.4,100.0,160464.0,96.0,3.0
+Ochsner Clinic Foundation,64.4,97.1,93565.0,34.0,1.7
+"Optum Services, Inc. ",64.3,98.6,130789.0,142.0,2.8
+Sapient Corporation,64.3,100.0,168333.0,21.0,3.2
+"doTERRA International, LLC",64.3,100.0,144234.0,12.0,3.3
+PERSISTENT SYSTEMS LIMITED,64.3,95.5,119113.0,67.0,2.0
+USACS Medical Group Ltd.,64.2,100.0,282661.0,19.0,2.4
+"MACY'S SYSTEMS & TECHNOLOGY, INC.",64.2,100.0,182573.0,22.0,3.3
+"Samsung Electronics America, Inc.",64.2,92.5,189634.0,40.0,3.0
+"Atlassian US, Inc.",64.2,100.0,202879.0,57.0,3.1
+Dallas Independent School District,64.1,97.9,71486.0,95.0,1.8
+"ServiceNow, Inc.",64.1,100.0,173084.0,116.0,2.8
+Infineon Technologies Americas Corp.,64.1,100.0,169040.0,11.0,2.4
+"Wolters Kluwer DXG U.S., Inc.",64.1,100.0,142625.0,40.0,2.1
+"Anthropic, PBC",64.1,100.0,191628.0,48.0,3.1
+"Experian Information Solutions, Inc.",64.0,100.0,163280.0,11.0,3.5
+"Rivian Automotive, LLC",64.0,85.7,158479.0,70.0,2.7
+"Chime Financial, Inc.",64.0,100.0,197970.0,31.0,3.1
+Siemens Industry Software Inc.,63.9,100.0,159828.0,60.0,2.7
+Hewlett Packard Enterprise Company,63.9,100.0,161401.0,85.0,3.0
+Truist Bank,63.9,97.5,145211.0,79.0,2.8
+"REDWOOD MATERIALS, INC.",63.8,100.0,166674.0,12.0,3.3
+University of Houston,63.8,96.6,99460.0,29.0,1.3
+Snowflake Inc.,63.8,88.8,178259.0,107.0,3.5
+U.S. Bank National Association,63.8,95.6,137901.0,113.0,2.7
+"Wells Fargo Bank, N.A.",63.8,100.0,155164.0,58.0,3.4
+"MANHATTAN ASSOCIATES, INC.",63.8,100.0,145573.0,27.0,3.8
+KFORCE INC. ,63.7,100.0,122343.0,175.0,2.5
+Amazon Advertising LLC,63.7,100.0,168915.0,27.0,2.2
+Traton R&D US LLC,63.7,100.0,143589.0,10.0,3.2
+KPMG LLP,63.7,92.5,167819.0,40.0,3.0
+"COMPUNNEL SOFTWARE GROUP, INC",63.6,100.0,113588.0,633.0,2.2
+"Johnson & Johnson Services, Inc.",63.6,100.0,177768.0,14.0,3.0
+LPL Financial LLC,63.5,100.0,159372.0,40.0,2.9
+Galileo Financial Technologies,63.5,100.0,206175.0,11.0,2.8
+"Joby Aero, Inc. ",63.5,100.0,167959.0,15.0,3.0
+Sanford Health,63.5,91.7,86015.0,12.0,2.5
+Annapurna Labs (U.S.) Inc.,63.5,100.0,180557.0,18.0,2.3
+Dassault Systemes Americas Corp,63.5,100.0,142230.0,16.0,3.2
+The Northern Trust Company,63.5,100.0,152995.0,39.0,3.3
+"Fiserv Solutions, LLC",63.4,98.9,135555.0,95.0,2.9
+Bloomberg L.P.,63.4,99.2,157002.0,127.0,2.6
+SKILLTUNE TECHNOLOGIES INC,63.3,100.0,100874.0,176.0,2.5
+Verizon Data Services LLC,63.3,100.0,156818.0,67.0,2.9
+MICHIGAN STATE UNIVERSITY,63.3,100.0,94117.0,16.0,2.1
+VALIDIT SOLUTIONS LLC,63.3,100.0,128960.0,11.0,2.0
+Children's National Medical Center,63.3,100.0,123734.0,19.0,1.6
+Walgreen Co.,63.3,100.0,161737.0,16.0,3.0
+GE PRECISION HEALTHCARE LLC,63.3,100.0,169475.0,12.0,3.5
+Barclays Services LLC ,63.3,97.5,152128.0,40.0,2.7
+Cedars-Sinai Medical Center,63.2,100.0,115510.0,27.0,1.7
+"Resolve AI, Inc.",63.2,100.0,227778.0,18.0,2.9
+Memorial Sloan Kettering Cancer Center,63.2,92.1,125021.0,63.0,2.5
+Electronic Arts Inc.,63.1,100.0,174455.0,17.0,2.6
+"Eliassen Group, LLC",63.1,100.0,138843.0,22.0,2.0
+"Wayve Technologies, Inc",63.0,100.0,246329.0,14.0,3.6
+GOLDMAN SACHS BANK USA,63.0,100.0,146732.0,31.0,2.6
+eBay Inc.,63.0,86.8,204124.0,114.0,2.7
+"AMAZON DEVELOPMENT CENTER U.S., INC. ",62.9,100.0,195342.0,26.0,2.3
+"NTT DATA Americas, Inc.",62.9,100.0,127242.0,63.0,3.2
+Nationwide Insurance,62.9,100.0,136328.0,16.0,3.5
+THE UNIVERSITY OF TEXAS RIO GRANDE VALLEY,62.9,100.0,103385.0,32.0,1.8
+"Tesla, Inc.",62.9,85.1,165654.0,342.0,2.9
+"Robinhood Markets, Inc.",62.8,97.1,172819.0,68.0,2.9
+"TECH MAHINDRA (AMERICAS), INC",62.7,95.1,114146.0,246.0,2.0
+"WELLS FARGO BANK, N.A.",62.7,100.0,154207.0,54.0,3.3
+"Medline Industries, LP.",62.7,86.5,134606.0,111.0,2.6
+Synechron Inc.,62.7,94.7,131516.0,57.0,2.0
+"Social Finance, LLC",62.6,86.0,204197.0,57.0,2.8
+THE UNIVERSITY OF TEXAS M.D. ANDERSON CANCER CENTER,62.5,47.8,210283.0,23.0,2.2
+Cruise LLC,62.5,94.1,225938.0,17.0,3.5
+Collabera LLC,62.5,100.0,152540.0,28.0,2.1
+SEI Investments Company,62.5,100.0,152305.0,20.0,3.6
+"Janssen Research & Development, LLC",62.5,100.0,145792.0,13.0,3.3
+Deloitte Services LP,62.5,100.0,149410.0,23.0,3.0
+"CarGurus, Inc.",62.4,100.0,180136.0,11.0,3.3
+"TD Bank, National Association ",62.4,100.0,145233.0,12.0,3.4
+Exzac,62.4,100.0,149639.0,10.0,3.1
+"The PNC Financial Services Group, Inc.",62.4,96.8,133825.0,31.0,3.4
+"BDO USA, P.C.",62.3,100.0,136720.0,23.0,2.7
+"Fox Cable Network Services, LLC",62.3,100.0,163335.0,13.0,3.4
+"Insperity Services, L.P.",62.3,100.0,154391.0,11.0,3.5
+"AIRBNB, INC.",62.3,97.9,182708.0,48.0,2.4
+"Twilio, Inc.",62.2,91.4,182923.0,35.0,3.6
+"Stripe, Inc.",62.2,98.1,171051.0,53.0,3.5
+Meijer Great Lakes Limited Partnership,62.2,95.2,138048.0,21.0,3.6
+"Harman Becker Automotive Systems, Inc.",62.2,96.3,140399.0,27.0,3.3
+Hilton Domestic Operating Company Inc.,62.2,100.0,148297.0,15.0,3.1
+"Herbalife International of America, Inc.",62.1,100.0,167567.0,11.0,3.8
+LTIMINDTREE Limited,62.1,92.7,113212.0,96.0,2.1
+"Zimmer, Inc.",62.1,95.8,123608.0,24.0,3.2
+"MIRACLE SOFTWARE SYSTEMS, INC.",62.0,100.0,114820.0,31.0,3.4
+"Ascendion, Inc. (Formerly known as Collabera, Inc.)",62.0,100.0,138280.0,33.0,2.3
+"American Financial Group, Great American Insurance Company",61.9,100.0,143155.0,10.0,3.3
+Baylor College of Medicine,61.9,58.5,126448.0,65.0,2.0
+"Twitch Interactive, Inc.",61.9,100.0,190928.0,14.0,2.9
+"Regeneron Pharmaceuticals, Inc.",61.9,100.0,160415.0,23.0,2.7
+"FedEx Freight, Inc.",61.9,100.0,121826.0,21.0,3.2
+Georgia State University,61.8,95.5,86805.0,22.0,1.2
+"Capgemini America, Inc.",61.8,100.0,145245.0,13.0,3.1
+Mphasis Corporation,61.8,69.2,122632.0,321.0,2.0
+University of South Florida,61.8,91.5,92004.0,47.0,2.0
+The Options Clearing Corporation,61.8,100.0,143293.0,21.0,3.7
+"Chewy, Inc.",61.8,97.6,161511.0,41.0,2.7
+Archer Aviation Inc.,61.8,100.0,194521.0,13.0,3.2
+Symbotic LLC,61.8,100.0,173703.0,21.0,3.4
+"Palo Alto Networks, Inc.",61.7,100.0,193979.0,95.0,2.3
+"Fidelity Technology Group, LLC d/b/a Fidelity Investments",61.7,98.4,129173.0,451.0,2.4
+Ingram Micro Inc.,61.7,100.0,147662.0,10.0,3.4
+"SIEMENS ENERGY, INC.",61.7,100.0,133526.0,18.0,2.4
+"Anaplan, Inc.",61.7,90.0,177772.0,10.0,3.1
+"AECOM Technical Services, Inc.",61.7,100.0,118191.0,39.0,2.7
+Tata Consultancy Services Limited,61.6,99.4,95513.0,540.0,2.1
+"University of California, Los Angeles",61.6,78.5,115771.0,79.0,2.0
+"BlackRock Financial Management, Inc.",61.6,75.5,160561.0,98.0,2.7
+Nokia of America Corporation,61.6,100.0,165408.0,37.0,2.6
+WIPRO LIMITED,61.6,98.9,100821.0,535.0,2.1
+"Groq, Inc.",61.6,100.0,239449.0,16.0,2.8
+Mavenir US Inc.,61.6,100.0,151553.0,13.0,3.1
+LinkedIn Corporation,61.6,100.0,187897.0,74.0,2.6
+"Affirm, Inc.",61.6,100.0,163704.0,15.0,2.6
+"Sandisk Technologies, Inc.",61.6,100.0,165309.0,51.0,3.1
+"Analog Devices, Inc.",61.6,100.0,146317.0,53.0,2.4
+Caterpillar Inc.,61.6,100.0,116796.0,69.0,2.8
+The Kroger Company,61.6,95.0,136715.0,20.0,3.0
+ John Hancock Life Insurance Company (USA),61.6,100.0,147902.0,11.0,3.2
+"NXP USA, Inc.",61.5,96.7,158362.0,30.0,2.8
+"NTT DATA Services, LLC",61.5,100.0,124963.0,38.0,3.3
+"Moody's Analytics, Inc.",61.5,94.6,161552.0,37.0,3.1
+Grant Thornton Advisors LLC,61.5,89.5,141125.0,19.0,2.7
+"Arm, Inc.",61.4,95.5,171298.0,44.0,3.7
+Mizuho Americas Services LLC,61.4,93.8,187725.0,16.0,3.4
+Greycell Labs Inc,61.4,100.0,120552.0,28.0,3.7
+L&T Technology Services Limited,61.4,90.1,103087.0,141.0,2.1
+INFOSYS LIMITED,61.4,99.8,98505.0,1879.0,2.3
+MONTEFIORE MEDICAL CENTER,61.3,93.3,162318.0,15.0,2.1
+"TAVANT TECHNOLOGIES, INC.",61.2,96.7,148622.0,30.0,3.2
+"Xilinx, Inc.",61.2,98.0,177645.0,51.0,2.6
+Northwestern Mutual Life Insurance Company,61.2,91.2,138196.0,34.0,2.8
+Liberty Mutual Technology Group Inc.,61.2,100.0,158945.0,22.0,3.5
+Penney OpCo LLC,61.2,100.0,150205.0,11.0,3.5
+VIRTUSA CORPORATION,61.2,76.6,129161.0,154.0,2.5
+"Pyramid Consulting, Inc. ",61.2,100.0,119626.0,53.0,3.2
+"Environmental Systems Research Institute, Inc.",61.1,100.0,115096.0,40.0,1.5
+"BEST BUY CO., INC.",61.1,82.1,165968.0,56.0,2.8
+UST HEALTHPROOF INC.,61.1,100.0,116219.0,23.0,2.0
+"American Family Mutual Insurance Company, S.I.",61.1,100.0,129570.0,10.0,2.9
+SIRIUS XM RADIO LLC,61.0,100.0,144689.0,23.0,3.1
+"ServiceTitan, Inc.",61.0,90.0,208650.0,10.0,3.4
+"Sophos, Inc.",61.0,92.3,167680.0,13.0,3.0
+Board of Regents of the University of Nebraska,61.0,97.2,79092.0,36.0,1.1
+Texas A&M University,61.0,81.6,93768.0,76.0,1.4
+Southwest Airlines Co.,61.0,100.0,147887.0,21.0,3.6
+"Astemo Americas, Inc",60.9,100.0,124750.0,12.0,3.7
+Unity Technologies SF,60.9,100.0,180923.0,13.0,2.5
+"Auris Health, Inc.",60.9,100.0,169218.0,12.0,2.8
+The Depository Trust & Clearing Corporation,60.9,96.8,160177.0,31.0,3.2
+Kiewit Engineering Group Inc. ,60.9,100.0,137643.0,10.0,3.0
+"Accenture Infrastructure and Capital Projects, LLC",60.9,100.0,137724.0,10.0,2.7
+"ZoomInfo Technologies, LLC",60.8,91.7,174214.0,12.0,3.0
+"Smartsheet, Inc.",60.8,100.0,190593.0,11.0,2.3
+"Delta Air Lines, Inc.",60.8,100.0,144969.0,17.0,3.2
+"BAPTIST HEALTH SOUTH FLORIDA, INC.",60.8,100.0,98246.0,18.0,2.3
+"Rockwell Automation, Inc.",60.8,90.0,142327.0,10.0,3.4
+"Rocket Mortgage, LLC",60.8,100.0,136885.0,12.0,2.7
+The Sherwin-Williams Company,60.8,100.0,124550.0,22.0,3.7
+"Jones Lang LaSalle Americas, Inc.",60.8,100.0,137998.0,10.0,2.3
+University of Pittsburgh,60.8,90.7,84890.0,54.0,1.4
+Hartford Fire Insurance Company,60.7,100.0,147602.0,18.0,3.2
+"Vistex, Inc.",60.7,100.0,137394.0,18.0,2.7
+Hyatt Corporation,60.7,91.7,148141.0,12.0,3.2
+"Notion Labs, Inc.",60.7,80.0,250620.0,10.0,3.5
+KLA Corporation,60.7,100.0,167684.0,42.0,2.4
+"South Sound Inpatient Physicians, PLLC",60.7,91.7,281663.0,12.0,1.8
+"ExlService.com, LLC",60.7,94.6,135512.0,56.0,2.4
+LTIMindtree Limited,60.7,99.8,99232.0,420.0,2.1
+"Atlassian US, Inc",60.6,100.0,196733.0,30.0,2.8
+"Moody's Investors Service, Inc.",60.6,96.2,156033.0,26.0,3.0
+"Docusign, Inc.",60.6,100.0,188729.0,26.0,3.2
+Cummins Inc.,60.6,86.5,110144.0,192.0,2.8
+Deel US LLC,60.6,92.3,192840.0,13.0,2.4
+"Dexcom, Inc.",60.6,100.0,147600.0,10.0,3.4
+Yahoo Holdings Inc.,60.6,93.1,166715.0,58.0,3.1
+Infogain Corporation,60.6,100.0,134900.0,24.0,2.2
+"FedEx Dataworks, Inc. ",60.6,100.0,137031.0,12.0,3.0
+Voya Services Company,60.5,100.0,150581.0,13.0,3.0
+"Workday, Inc.",60.5,100.0,170447.0,53.0,2.6
+ABBOTT LABORATORIES,60.5,100.0,134023.0,16.0,2.9
+The University of Arizona,60.5,89.4,97793.0,47.0,1.8
+TRUSTEES OF BOSTON UNIVERSITY,60.4,84.1,118695.0,44.0,1.5
+NORTHWELL HEALTH,60.4,100.0,175328.0,21.0,2.1
+"LexisNexis Risk Solutions FL, Inc.",60.4,97.7,132225.0,43.0,2.7
+"Akamai Technologies, Inc.",60.4,100.0,158114.0,30.0,2.6
+"PayPal, Inc.",60.4,84.0,188865.0,225.0,2.5
+"Rutgers, The State University of New Jersey",60.4,94.5,102841.0,55.0,2.0
+"Thermo Fisher Scientific, Inc. ",60.4,96.2,119527.0,79.0,2.8
+Eaton Corporation,60.3,100.0,118832.0,39.0,2.7
+"Intuitive Surgical Operations, Inc.",60.3,93.2,162811.0,59.0,3.0
+"Hexaware Technologies, Inc.",60.2,96.0,106846.0,125.0,2.4
+"Grammarly, Inc.",60.2,94.7,205610.0,19.0,3.7
+The University of Southern California,60.2,89.8,93964.0,88.0,1.5
+The Guardian Life Insurance Company of America,60.2,100.0,159008.0,14.0,3.2
+"University of Alabama Health Services Foundation, PC",60.2,45.2,252797.0,31.0,1.8
+Regions Bank,60.2,100.0,127937.0,13.0,2.5
+"AvidXchange, Inc.",60.1,100.0,151350.0,14.0,2.9
+Wayfair LLC,60.1,100.0,161232.0,17.0,2.8
+"Cloudera, Inc.",60.1,93.3,185143.0,15.0,3.1
+UNUM Group,60.1,100.0,135671.0,11.0,3.6
+TATA CONSULTANCY SERVICES LIMITED,60.1,98.6,90687.0,777.0,2.1
+"SCHNEIDER ELECTRIC USA, INC.",60.1,95.5,169713.0,22.0,3.0
+"Zoox, Inc.",60.1,94.1,185298.0,34.0,3.4
+"Medidata Solutions, Inc.",60.1,100.0,164604.0,11.0,2.7
+Paylocity Corporation,60.1,90.9,166560.0,11.0,3.4
+Rockwell Collins Inc.,60.1,100.0,121150.0,45.0,3.1
+"Red Hat, Inc.",60.1,93.3,164131.0,30.0,3.1
+Deloitte Transactions and Business Analytics LLP,60.1,100.0,132902.0,10.0,3.0
+Archer Daniels Midland Company ,60.1,94.4,130276.0,18.0,3.1
+UST GLOBAL INC,60.0,100.0,114467.0,31.0,2.1
+"Zensar Technologies, Inc.",60.0,97.7,128681.0,44.0,2.6
+"Fifth Third Bank, National Association ",60.0,100.0,119173.0,13.0,2.7
+"PHOTON INFOTECH, INC.",60.0,98.0,120359.0,50.0,2.6
+CitiusTech Inc.,60.0,93.8,115253.0,81.0,2.3
+Highmark Health,60.0,100.0,138339.0,11.0,3.2
+Gap Inc.,60.0,100.0,171372.0,13.0,3.2
+"Tata Technologies, Inc.",59.9,100.0,106383.0,29.0,2.0
+DXC Technology Services LLC,59.9,100.0,129707.0,20.0,2.7
+LOCAL INITIATIVE HEALTH AUTHORITY FOR LOS ANGELES COUNTY,59.9,100.0,158016.0,10.0,3.0
+"Invesco Group Services, Inc.",59.8,100.0,153804.0,14.0,2.9
+"Exel, Inc. ",59.8,100.0,105022.0,11.0,2.4
+City National Bank,59.8,100.0,144415.0,19.0,3.3
+IQVIA RDS Inc.,59.8,88.2,136116.0,17.0,2.4
+"Amazon Data Services, Inc.",59.7,100.0,164319.0,14.0,2.0
+MERRILL LYNCH,59.7,100.0,152749.0,15.0,3.2
+The Nemours Foundation - Nemours Children's Health,59.7,60.0,165313.0,10.0,1.5
+"Alliance for Sustainable Energy, LLC",59.7,100.0,96435.0,29.0,2.8
+"Lowe's Companies, Inc.",59.7,89.4,132498.0,85.0,3.0
+Wellington Management Company LLP,59.7,96.0,161840.0,25.0,3.2
+"Becton, Dickinson and Company",59.6,100.0,147830.0,25.0,2.6
+"NetApp, Inc.",59.6,100.0,178550.0,28.0,3.0
+Safeway Inc.,59.6,94.9,181625.0,39.0,3.0
+Weill Cornell Medical College,59.6,88.4,110088.0,43.0,1.6
+Paychex North America Inc.,59.6,100.0,131311.0,17.0,2.6
+The Ohio State University,59.6,64.9,94832.0,77.0,1.5
+"BLIZZARD ENTERTAINMENT, INC.",59.6,100.0,161011.0,12.0,2.7
+Case Western Reserve University,59.6,100.0,71928.0,24.0,1.8
+Jackson Public School District,59.5,100.0,55412.0,26.0,3.0
+The University of Texas M.D. Anderson Cancer Center,59.5,65.8,110702.0,73.0,1.5
+Sanford Clinic,59.5,72.7,169324.0,11.0,3.7
+Ibase Operations Corp.,59.5,100.0,116893.0,18.0,2.2
+"DIGIPULSE TECHNOLOGIES, INC.",59.5,91.7,138083.0,48.0,3.1
+LexisNexis Risk Data Management LLC,59.4,100.0,132614.0,11.0,2.9
+East West Bank,59.4,100.0,162285.0,12.0,2.8
+Bayer U.S. LLC,59.4,90.9,156278.0,11.0,3.5
+THE UNIVERSITY OF TENNESSEE,59.4,91.3,96884.0,46.0,1.4
+"MONGODB, INC.",59.3,81.8,198687.0,44.0,3.3
+"Nordstrom, Inc.",59.3,95.2,176553.0,42.0,2.5
+PALANTIR TECHNOLOGIES INC.,59.3,100.0,175917.0,12.0,2.2
+NATSOFT CORPORATION,59.3,100.0,133586.0,42.0,3.0
+"Group Health, Inc.",59.3,100.0,104885.0,12.0,2.8
+"American Airlines, Inc.",59.3,96.0,111666.0,99.0,2.1
+"Brillio, LLC",59.3,98.4,122121.0,64.0,2.2
+Medica Services Company LLC,59.3,90.0,146353.0,10.0,3.5
+"Staples, Inc.",59.2,96.7,150474.0,30.0,2.7
+"KPIT Technologies, Inc.",59.2,96.3,115080.0,27.0,2.4
+Docusign Inc. ,59.2,100.0,186764.0,22.0,2.9
+Qualcomm Incorporated,59.2,100.0,145122.0,12.0,3.4
+"Western Digital Technologies, Inc.",59.2,100.0,131470.0,76.0,2.2
+SATIN SOLUTIONS LLC,59.2,100.0,101243.0,67.0,2.4
+The University of Texas at Austin,59.2,63.2,105937.0,76.0,1.6
+"Applied Intuition, Inc.",59.2,100.0,215935.0,24.0,2.8
+"EAB Global, Inc.",59.1,95.2,124280.0,21.0,2.5
+GlobalLogic Inc.,59.1,95.8,117407.0,72.0,2.5
+"Magic Leap, Inc.",59.0,88.2,164744.0,17.0,3.2
+"Okta, Inc. ",59.0,100.0,175690.0,34.0,3.0
+ZF Active Safety US Inc.,59.0,100.0,124611.0,14.0,2.4
+"SAMSUNG AUSTIN SEMICONDUCTOR,LLC",59.0,94.1,189394.0,17.0,3.8
+Discover Products Inc.,59.0,100.0,126408.0,13.0,2.9
+"SCOTIA CAPITAL (USA), INC.",59.0,80.0,198650.0,10.0,2.8
+Michigan State University,59.0,100.0,95487.0,15.0,1.5
+"MITCHELL/MARTIN, INC.",58.9,100.0,142174.0,17.0,2.6
+Standard & Poor's Financial Services LLC,58.9,93.3,155095.0,15.0,3.1
+"Riot Games, Inc.",58.9,100.0,160940.0,14.0,3.5
+EGEN SOLUTIONS LLC.,58.9,100.0,120026.0,23.0,2.3
+"Autodesk, Inc.",58.9,100.0,164235.0,32.0,3.0
+Vanderbilt University,58.9,94.7,88707.0,38.0,2.5
+"Zscaler, Inc.",58.9,100.0,198732.0,24.0,2.6
+"Citizens Financial Group, Inc.",58.9,97.8,133970.0,45.0,2.8
+"Cotiviti, Inc.",58.8,94.7,136365.0,19.0,2.6
+Tenstorrent USA Inc.,58.8,100.0,190203.0,11.0,3.5
+Leland Stanford Jr. Univ/SLAC National Accelerator Lab,58.8,100.0,116768.0,14.0,2.1
+"ADP Technology Services, Inc. ",58.8,98.3,136639.0,60.0,2.6
+Rowan University,58.8,100.0,112665.0,11.0,2.6
+Orion Systems Integrators LLC,58.8,97.8,131158.0,46.0,2.4
+"CLOUDFLARE, INC.",58.8,92.3,161291.0,26.0,2.9
+"JOHNSON CONTROLS, INC.",58.8,100.0,121247.0,16.0,3.4
+Administrators of the Tulane Educational Fund,58.8,88.6,92332.0,35.0,1.3
+LexisNexis Risk Solutions Inc.,58.7,100.0,120591.0,11.0,2.8
+"Shipt, Inc.",58.7,100.0,148417.0,11.0,3.1
+The Travelers Indemnity Company,58.7,100.0,140687.0,17.0,3.2
+Unisys Corporation,58.7,100.0,125368.0,13.0,2.4
+Rocket Limited Partnership,58.7,100.0,142746.0,17.0,2.8
+Zurich American Insurance Company,58.7,93.8,134180.0,16.0,3.1
+"Fulcrum Digital ,Inc.",58.6,100.0,117871.0,10.0,1.9
+"HM Health Solutions, Inc.",58.6,100.0,124106.0,13.0,2.8
+"ASML US, LP",58.6,100.0,133357.0,39.0,2.7
+Synchrony Bank,58.6,96.3,143556.0,27.0,3.0
+"RIVIAN AUTOMOTIVE, LLC",58.6,72.5,172701.0,40.0,2.8
+"Skyworks Solutions, Inc.",58.5,94.4,142825.0,18.0,2.7
+"Slalom, Inc.",58.5,100.0,150734.0,24.0,2.7
+"Applied Materials, Inc",58.5,94.7,160584.0,38.0,2.9
+"HDCC Guam, LLC",58.5,100.0,83628.0,10.0,3.5
+University of Washington,58.5,66.7,118143.0,45.0,1.6
+UNIVERSITY OF KENTUCKY,58.5,85.2,92796.0,27.0,1.3
+Jacobs Project Management Company,58.5,100.0,123490.0,12.0,2.5
+NewRez LLC,58.4,100.0,139901.0,23.0,2.5
+"Balyasny Asset Management, L.P.",58.4,54.2,209792.0,24.0,2.9
+"Perficient, Inc.",58.4,89.7,144419.0,29.0,2.7
+The University of Texas at Arlington,58.4,93.3,86306.0,30.0,1.0
+Virginia Commonwealth University,58.4,100.0,78074.0,24.0,1.2
+"Applied Materials, Inc.",58.3,100.0,162151.0,17.0,2.9
+U.S. BANK NATIONAL ASSOCIATION,58.3,98.3,127468.0,59.0,2.6
+"Natera, Inc.",58.2,100.0,134473.0,26.0,2.7
+"Marvell Semiconductor, Inc.",58.2,100.0,169669.0,22.0,2.6
+"INTELLECTT, INC.",58.2,100.0,99550.0,58.0,2.0
+NTT DATA Business Solutions Inc.,58.2,84.6,152795.0,13.0,4.0
+UL LLC,58.2,100.0,132025.0,14.0,3.1
+ASM AMERICA INC.,58.2,100.0,134308.0,20.0,3.0
+"Farmers Group, Inc.",58.2,93.8,149436.0,32.0,2.8
+"BROADRIDGE FINANCIAL SOLUTIONS, INC.",58.2,100.0,145589.0,20.0,3.0
+"MAST Technology Services, Inc.",58.1,90.0,142209.0,10.0,3.3
+TD Securities (USA) LLC,58.1,66.7,213080.0,15.0,2.9
+Yale University,58.1,70.0,101068.0,80.0,1.5
+Tractor Supply Company,58.1,100.0,125105.0,17.0,3.1
+Conexus Medstaff LLC,58.1,100.0,55690.0,31.0,2.0
+"Ameriprise Financial, Inc. ",58.0,96.3,132849.0,27.0,3.2
+Forvis Mazars LLP,58.0,80.0,145270.0,10.0,3.4
+Laboratory Corporation of America Holdings,58.0,97.0,121086.0,33.0,2.9
+"Alnylam US, Inc.",58.0,100.0,153676.0,10.0,2.5
+Cardinal Health ,58.0,93.6,119015.0,47.0,2.6
+"WarnerMedia Services, LLC",58.0,100.0,183404.0,17.0,2.8
+Mindlance Inc.,58.0,100.0,133316.0,34.0,2.5
+"Indeed, Inc.",58.0,100.0,162370.0,14.0,3.3
+" Box, Inc.",58.0,100.0,183844.0,29.0,2.9
+Insulet Corporation,57.9,100.0,152789.0,11.0,2.7
+ACTIVISION PUBLISHING INC,57.9,100.0,149857.0,12.0,2.5
+"Marriott International, Inc.",57.9,89.7,159649.0,29.0,2.7
+Grainger Corporate Services LLC   ,57.9,88.9,151335.0,18.0,3.0
+Rokt US Corp.,57.9,100.0,166139.0,13.0,3.3
+"UChicago Argonne, LLC",57.9,94.1,91799.0,34.0,2.1
+Equifax Inc.,57.9,100.0,133138.0,40.0,2.8
+"Corpay, Inc.",57.9,100.0,132630.0,10.0,2.4
+"Mastech Digital Technologies, Inc.",57.8,100.0,107570.0,73.0,2.1
+Stryker Corporation,57.8,100.0,135891.0,23.0,2.8
+Samsara Inc.,57.8,100.0,165376.0,13.0,3.3
+"Zoetis, Inc.",57.8,100.0,148982.0,10.0,3.1
+Children's Hospital Corporation,57.8,97.1,100865.0,35.0,2.1
+"Sagent M&C, LLC",57.8,100.0,155721.0,13.0,2.8
+"Novo Nordisk Research & Development US, Inc.",57.8,94.7,134716.0,19.0,2.7
+ LendingClub Bank National Association,57.7,92.0,186142.0,25.0,2.8
+Medical University Hospital Authority,57.7,100.0,68078.0,12.0,3.0
+"SAP Labs, LLC",57.7,100.0,164036.0,19.0,2.1
+"National Institutes of Health, HHS",57.7,60.9,111925.0,46.0,2.0
+NOVARTIS PHARMACEUTICALS CORPORATION,57.7,100.0,149640.0,24.0,3.0
+Arc Research Institute,57.7,100.0,121000.0,10.0,1.4
+HP Inc.,57.6,100.0,142670.0,24.0,3.0
+"Cadence Design Systems, Inc.",57.6,94.4,161122.0,54.0,2.8
+Northwestern Memorial HealthCare,57.6,95.7,101489.0,23.0,2.0
+"LexisNexis Risk Solutions, Inc.",57.6,100.0,132433.0,17.0,2.4
+Zebra Technologies Corporation,57.6,100.0,142138.0,20.0,3.1
+"Yash Technologies, Inc",57.6,100.0,124632.0,19.0,2.6
+RSM US LLP,57.6,85.7,143899.0,21.0,3.3
+"Leidos, Inc.",57.6,100.0,125137.0,15.0,2.7
+"Remitly, Inc.",57.6,100.0,169128.0,14.0,2.5
+GP TECHNOLOGIES LLC,57.5,100.0,102477.0,47.0,2.4
+RBC Capital Markets LLC ,57.5,100.0,154465.0,11.0,2.9
+"Birlasoft Solutions, Inc.",57.5,100.0,121554.0,29.0,2.6
+"Foundation Medicine, Inc.",57.5,100.0,137265.0,11.0,3.3
+Verizon Corporate Resources Group LLC,57.5,100.0,149666.0,11.0,2.5
+"Medtronic, Inc. ",57.5,100.0,125900.0,15.0,3.2
+Mastercard International Incorporated,57.5,94.4,138738.0,36.0,2.7
+PetSmart LLC,57.5,100.0,138051.0,12.0,3.2
+The University of Toledo,57.5,84.6,113554.0,13.0,1.9
+"Varian Medical Systems, Inc.",57.5,100.0,131898.0,13.0,2.7
+"SS&C Technologies, Inc.",57.5,100.0,152230.0,15.0,2.7
+ATOS SYNTEL INC,57.4,91.3,106389.0,46.0,2.3
+"GXO Logistics Corporate Services, Inc.",57.4,100.0,101267.0,13.0,3.0
+The Ohio University,57.4,93.8,68782.0,16.0,1.7
+"AUDIBLE, INC.",57.4,100.0,155797.0,24.0,2.1
+HCL GLOBAL SYSTEMS INC,57.3,97.9,118655.0,47.0,2.6
+"Fujitsu North America, Inc. ",57.3,100.0,118665.0,37.0,2.7
+"Aurora Operations, Inc.",57.3,90.5,159909.0,21.0,2.7
+Boston Scientific Corporation,57.3,100.0,123355.0,24.0,2.7
+SNAP INC.,57.3,89.2,181955.0,65.0,3.0
+"Siemens Mobility, Inc.",57.3,100.0,115415.0,14.0,2.3
+"ERP Analysts, Inc.",57.3,100.0,125226.0,32.0,2.4
+"Centene Management Company, LLC",57.3,80.0,136377.0,35.0,2.7
+Computer Sciences Corporation,57.3,100.0,110236.0,37.0,2.3
+Zoox Inc.,57.2,94.1,181911.0,17.0,3.4
+"DENKEN SOLUTIONS, INC.",57.2,97.8,117422.0,45.0,2.3
+Sentara Health,57.2,100.0,102042.0,11.0,1.4
+Willsfly Technologies Inc,57.1,100.0,121164.0,20.0,3.0
+"Qualcomm Innovation Center, Inc. ",57.1,100.0,163956.0,10.0,3.2
+WAYNE STATE UNIVERSITY,57.1,76.2,91327.0,21.0,1.6
+Auburn University,57.1,100.0,79425.0,14.0,1.1
+"7-Eleven, Inc.",57.1,100.0,131620.0,43.0,2.5
+CATERPILLAR INC.,57.1,100.0,123635.0,14.0,3.1
+Teladoc Health Inc.,57.1,100.0,140664.0,14.0,3.1
+Washington University,57.1,71.2,92829.0,153.0,1.5
+"DB Global Technology, Inc.",57.0,85.4,135210.0,48.0,2.9
+"Foot Locker Corporate Services, Inc",57.0,100.0,126766.0,10.0,2.5
+UKG Inc. ,57.0,100.0,162804.0,12.0,3.1
+"Blackline Systems, Inc.",57.0,100.0,176463.0,17.0,3.1
+"Fortinet, Inc.",57.0,97.0,166918.0,33.0,2.8
+"Susquehanna International Group, LLP",57.0,63.6,183436.0,11.0,3.0
+EPAM Systems Inc.,56.9,100.0,122609.0,23.0,2.2
+"HULU, LLC",56.9,100.0,188825.0,12.0,2.7
+"Yoh, A Day & Zimmermann Company",56.9,100.0,137711.0,13.0,2.5
+"TRINITY PARTNERS, LLC",56.9,83.3,161689.0,12.0,3.4
+"athenahealth, Inc.",56.9,90.0,153886.0,30.0,2.8
+Progressive Casualty Insurance Company,56.9,89.5,136059.0,19.0,2.5
+The Methodist Hospital Research Institute,56.8,92.9,77547.0,28.0,1.9
+"HRB Professional Resources, LLC",56.8,100.0,131115.0,13.0,2.7
+Louisiana Children's Medical Center,56.8,100.0,66875.0,31.0,2.7
+"Qorvo US, INC.",56.8,100.0,131661.0,15.0,2.3
+LINKEDIN CORPORATION,56.8,100.0,195870.0,31.0,2.6
+"Genentech, Inc.",56.8,96.2,154115.0,26.0,2.7
+"NBCUniversal Media, LLC",56.7,94.4,150932.0,18.0,3.2
+"CSS PAYROLL CO, L.P.",56.7,91.7,207637.0,12.0,2.8
+The Simons Foundation Inc.,56.7,92.3,112153.0,13.0,1.5
+Choice Hotels International Services Corp,56.7,100.0,136367.0,11.0,3.1
+"ModernaTX, Inc.",56.7,100.0,126559.0,16.0,2.8
+"Tekdelite, LLC",56.6,76.9,125408.0,13.0,3.5
+"Samsung Semiconductor, Inc.",56.6,100.0,176944.0,24.0,2.8
+Informatica LLC,56.6,100.0,171724.0,11.0,3.1
+MediaTek USA Inc.,56.6,92.3,170154.0,13.0,3.4
+UPMC Presbyterian Shadyside,56.6,76.5,122235.0,17.0,3.5
+"PERSISTENT SYSTEMS, INC.",56.6,88.2,126943.0,51.0,2.1
+The Prudential Insurance Company of America,56.6,87.2,148215.0,47.0,2.4
+SAVANNAH CHATHAM COUNTY PUBLIC SCHOOL SYSTEM,56.6,100.0,64589.0,28.0,2.4
+Abercrombie & Fitch Management Co.,56.6,100.0,139947.0,11.0,3.1
+OhioHealth Corp.,56.5,100.0,73949.0,14.0,2.8
+Western Alliance Bank,56.5,90.0,150063.0,10.0,3.0
+"TriNet USA, Inc.",56.5,92.3,152448.0,13.0,3.0
+"MultiPlan, Inc.",56.5,100.0,122299.0,13.0,2.4
+"Inovalon, Inc. ",56.5,100.0,131731.0,13.0,2.5
+M. A. Mortenson Company,56.5,100.0,115747.0,10.0,3.0
+"Ariba, Inc.",56.4,100.0,177066.0,11.0,2.4
+"Pinterest, Inc.",56.4,85.7,181879.0,77.0,2.6
+"US Tiger Securities, Inc.",56.4,100.0,122363.0,13.0,2.5
+The University of Texas at Dallas,56.4,89.5,93328.0,19.0,1.6
+"F5, Inc.",56.4,82.4,197787.0,34.0,2.7
+"Management Health Systems, LLC",56.4,100.0,64526.0,31.0,1.2
+TechCorp Solutions Inc.,56.4,83.3,188333.0,18.0,2.2
+AMD Design LLC,56.4,93.8,134733.0,16.0,3.2
+REALTECH SERVICES LLC.,56.3,100.0,106269.0,10.0,2.1
+"Ventois, Inc",56.3,100.0,127288.0,21.0,2.1
+Total System Services LLC,56.3,100.0,122142.0,31.0,2.6
+Broadcom Corporation,56.3,100.0,172804.0,22.0,2.8
+"Arcadis U.S., Inc.",56.3,100.0,108701.0,19.0,2.0
+SEATTLE CHILDREN'S HOSPITAL,56.3,86.7,112706.0,15.0,2.5
+"Charter Communications, Inc.",56.3,78.7,126761.0,122.0,2.9
+"Markit North America, Inc.",56.2,100.0,129481.0,16.0,2.2
+"Insight Global, LLC",56.2,89.7,123705.0,58.0,2.9
+"CSAA Insurance Services, Inc.",56.2,100.0,146856.0,10.0,2.9
+FUSION LIFE SCIENCES TECHNOLOGIES LLC,56.2,100.0,101014.0,14.0,2.0
+DocuSign Inc. ,56.2,95.7,199644.0,23.0,2.9
+"BlackRock Investment Management, LLC",56.1,90.9,150009.0,11.0,2.3
+"GroupM Worldwide, LLC",56.1,100.0,96689.0,22.0,1.8
+WICHITA STATE UNIVERSITY,56.1,100.0,76149.0,12.0,1.2
+"Domino's Pizza, Inc.",56.1,100.0,110108.0,10.0,2.2
+GCOM Software LLC,56.1,100.0,119278.0,17.0,2.9
+"Mitsubishi Electric Power Products, Inc.",56.1,100.0,108844.0,10.0,2.4
+Triad Math and Science Academy Co.,56.1,100.0,69224.0,12.0,2.8
+"Santander Bank, N.A.",56.1,91.7,140452.0,12.0,2.8
+Sathram Corporation,56.1,100.0,109227.0,16.0,2.4
+"Arthur J. Gallagher Service Company, LLC",56.1,100.0,121496.0,19.0,2.5
+New York City Health and Hospitals Corporation,56.0,100.0,92604.0,10.0,2.0
+"DPR Construction, A General Partnership",56.0,100.0,110054.0,22.0,2.4
+"General Motors Financial Company, Inc.",56.0,92.0,148000.0,25.0,2.9
+Jabil Inc.,55.9,100.0,123428.0,13.0,2.7
+"Compass Group USA, Inc.",55.9,100.0,121173.0,13.0,2.8
+Corewell Health,55.9,100.0,93907.0,12.0,2.9
+ Axtria INC,55.9,95.0,134490.0,20.0,2.7
+Wingskyline Technologies Inc,55.9,100.0,120338.0,20.0,2.7
+Beckman Research Institute of the City of Hope,55.9,100.0,83993.0,16.0,1.8
+"SOLUTION IT, Inc",55.9,100.0,111439.0,18.0,2.3
+"Intercontinental Exchange Holdings, Inc.",55.9,87.5,128260.0,40.0,3.3
+"MetLife Group, Inc.",55.8,100.0,125070.0,31.0,2.5
+"Zoom Communications, Inc.",55.8,100.0,188584.0,20.0,2.2
+"Saviynt, Inc.",55.8,100.0,155116.0,12.0,2.9
+Tarleton State University,55.8,75.0,79946.0,12.0,1.0
+"Target Enterprise, Inc.",55.8,83.0,144852.0,53.0,3.1
+"State University of New York, Upstate Medical University",55.7,100.0,69330.0,12.0,2.0
+American Express Company,55.7,91.7,145838.0,12.0,2.8
+Comerica Management Company,55.7,90.0,151950.0,10.0,3.1
+"PURE STORAGE, INC.",55.7,89.2,216800.0,37.0,2.6
+"Blue Yonder, Inc.",55.7,100.0,128354.0,15.0,2.7
+"Synechron, Inc.",55.7,87.1,120585.0,62.0,2.1
+MIRAFRA INC,55.7,100.0,153675.0,30.0,2.5
+Altera Corporation,55.7,100.0,159812.0,28.0,2.5
+PIONEER CONSULTING SERVICES LLC,55.6,100.0,115920.0,36.0,2.1
+"KEYSIGHT TECHNOLOGIES, INC.",55.6,100.0,140996.0,11.0,2.9
+"University of Nevada, Reno",55.6,100.0,76892.0,13.0,1.6
+W.M. Rice University,55.6,100.0,80419.0,14.0,2.2
+Stantec Consulting Services Inc.,55.6,100.0,103259.0,28.0,1.8
+Mississippi State University,55.6,84.2,79220.0,19.0,1.2
+Aptiv US Services General Partnership,55.6,91.7,138244.0,12.0,2.8
+Brookhaven National Laboratory,55.6,90.5,104009.0,21.0,2.2
+Panasonic Avionics Corporation,55.5,100.0,157887.0,10.0,2.4
+Alibaba Cloud US LLC,55.5,100.0,158794.0,10.0,2.9
+ACE American Insurance Company ,55.5,90.0,154620.0,10.0,3.2
+"AIG PC Global Services, Inc.",55.4,92.3,131934.0,13.0,3.4
+FOOD AND DRUG ADMINISTRATION,55.4,55.2,113896.0,29.0,1.5
+Northwestern University,55.4,66.2,92754.0,71.0,1.4
+"TOOGANN Technologies, LLC",55.4,100.0,109820.0,13.0,2.4
+"Schweitzer Engineering Laboratories, Inc.",55.4,100.0,129209.0,13.0,2.4
+"Indiana University Health, Inc.",55.4,100.0,81187.0,12.0,1.8
+Garmin International Inc.,55.3,92.3,123940.0,13.0,3.2
+"Upstart Network, Inc.",55.3,81.0,188590.0,21.0,2.7
+MSR TECHNOLOGY GROUP LLC,55.3,98.2,103690.0,56.0,2.0
+"LYFT, Inc.",55.3,100.0,153952.0,25.0,2.0
+TransUnion LLC,55.3,100.0,124295.0,28.0,2.4
+The University of Virginia,55.3,72.7,86274.0,77.0,1.7
+Intergraph Corporation,55.3,100.0,120491.0,16.0,2.2
+"T. Rowe Price Associates, Inc. ",55.2,100.0,130507.0,14.0,2.6
+GlaxoSmithKline LLC,55.2,76.9,138191.0,13.0,2.7
+Costco Wholesale Corporation,55.2,89.2,157114.0,37.0,2.0
+"Comcast Cable Communications, LLC",55.2,82.1,130317.0,162.0,2.5
+"Peloton Interactive, Inc.",55.2,100.0,177954.0,11.0,2.8
+Global Payment Holding Company,55.2,100.0,128248.0,13.0,2.8
+"VIRTUSA CONSULTING SERVICES PVT., LTD",55.2,87.5,127074.0,24.0,2.7
+Research Foundation of CUNY,55.2,100.0,86311.0,14.0,2.0
+HMH Hospitals Corporation,55.1,69.2,128910.0,13.0,1.9
+Dana-Farber Cancer Institute,55.1,93.2,85328.0,44.0,1.2
+"DaVita, Inc.",55.1,93.8,123841.0,16.0,3.1
+"Moss & Associates, LLC",55.1,100.0,93692.0,13.0,2.2
+Concentrix CVG Customer Management Group Inc.,55.1,100.0,117100.0,39.0,2.2
+"Axon Enterprise, Inc.",55.0,84.6,148500.0,39.0,2.2
+"ASML US, LLC",55.0,100.0,131508.0,10.0,2.3
+"University of California, Davis",55.0,67.2,117021.0,61.0,1.9
+CNH Industrial America LLC,55.0,87.5,126744.0,16.0,2.6
+"McAfee, LLC",55.0,100.0,134730.0,10.0,2.8
+"Saipsit, Inc.",55.0,100.0,111099.0,22.0,2.2
+Zipline International Inc.,55.0,83.3,171800.0,12.0,3.2
+"Insurance Services Office, Inc",55.0,100.0,126900.0,17.0,2.0
+STATE UNIVERSITY OF NEW YORK AT BUFFALO,55.0,78.6,83437.0,14.0,2.0
+"Charles River Laboratories, Inc.",55.0,85.7,122028.0,14.0,2.2
+Isite Technologies Inc.,54.9,100.0,92030.0,14.0,2.0
+Altera Digital Health Inc.,54.9,100.0,114756.0,11.0,2.3
+California Independent System Operator Corporation,54.9,81.8,160140.0,11.0,3.3
+"QUEST GLOBAL SERVICES- N.A., INC.",54.9,100.0,113240.0,15.0,1.9
+DUBOIS REGIONAL MEDICAL CENTER,54.9,100.0,66586.0,13.0,2.0
+"GSPANN TECHNOLOGIES, INC.",54.9,100.0,137641.0,21.0,1.8
+"Infovision, Inc.",54.9,100.0,127778.0,18.0,1.7
+"COPART, INC",54.9,100.0,132283.0,15.0,2.3
+SPRUCE TECHNOLOGY INC.,54.9,100.0,121966.0,12.0,1.8
+"Interactive Communications International, Inc. ",54.9,100.0,137139.0,11.0,2.4
+"SIEMENS INDUSTRY, INC.",54.8,90.0,132394.0,20.0,2.7
+"INTRAEDGE, INC.",54.8,100.0,113724.0,28.0,2.3
+University of Louisville,54.8,81.5,91047.0,27.0,1.2
+"St. Jude Medical, Cardiology Division, Inc.",54.8,96.0,121676.0,25.0,2.4
+"Avis Budget Car Rental, LLC",54.8,100.0,129529.0,14.0,2.1
+Genesis Health System,54.8,100.0,87164.0,14.0,2.0
+Ericsson Inc.,54.8,100.0,134068.0,23.0,2.4
+Quadrant Technologies LLC,54.7,100.0,112633.0,63.0,1.7
+"DISH NETWORK, LLC ",54.7,100.0,130764.0,11.0,2.7
+DISTRICT OF COLUMBIA PUBLIC SCHOOLS,54.7,100.0,65204.0,49.0,1.0
+Capital Group Companies Global,54.7,80.0,187072.0,10.0,3.2
+"Circana, LLC",54.7,100.0,140631.0,13.0,2.1
+"Akkodis, Inc.",54.7,95.0,114438.0,20.0,2.4
+Black & Veatch Corporation,54.7,95.7,122172.0,23.0,2.8
+Lam Research Corporation ,54.7,95.5,149888.0,22.0,2.8
+Infodat International Inc.,54.7,100.0,107364.0,11.0,2.4
+"Iris Software, Inc",54.6,94.1,121119.0,34.0,2.2
+"Standish Management US, LLC",54.6,92.9,106368.0,14.0,1.5
+Cornell University,54.6,61.0,122832.0,59.0,1.8
+CSC Covansys Corporation,54.6,100.0,109220.0,16.0,2.3
+"Zions Bancorporation, N.A.",54.6,86.4,128490.0,22.0,3.4
+Exelon Business Services Company LLC,54.6,100.0,125222.0,10.0,2.7
+"Oracle Financial Services Software, Inc.",54.6,100.0,144868.0,18.0,2.6
+"HONDA DEVELOPMENT & MANUFACTURING OF AMERICA, LLC",54.5,100.0,98934.0,10.0,2.5
+"CrowdStrike, Inc.",54.5,62.5,198023.0,40.0,3.1
+Carnegie Mellon University,54.5,73.5,89202.0,34.0,1.1
+GANDARA Mental HEALTH CENTER Inc,54.5,100.0,59915.0,18.0,1.8
+SOPHLOGIC GLOBAL LLC.,54.5,97.3,110022.0,37.0,2.0
+"SIEMENS MEDICAL SOLUTIONS USA, INC.",54.5,78.9,139124.0,19.0,3.1
+PROMATRIX CORP,54.5,100.0,123155.0,20.0,2.5
+Purdue University,54.4,59.5,89803.0,111.0,1.6
+"CBRE, INC.",54.4,80.0,127043.0,25.0,2.5
+Honeywell Electronic Chemicals LLC,54.4,90.0,193850.0,10.0,2.6
+United Parcel Service General Services Co.,54.4,91.4,142737.0,35.0,2.2
+The Hertz Corporation,54.3,90.9,136251.0,11.0,2.8
+HCA Management Services LP,54.3,92.0,116628.0,25.0,3.0
+NYU Grossman School of Medicine,54.3,55.9,133072.0,59.0,1.5
+TRUSTEES OF THE UNIVERSITY OF PENNSYLVANIA,54.3,59.3,98618.0,140.0,1.5
+"Tris Pharma, Inc.",54.3,100.0,94785.0,11.0,2.6
+Whirlpool Corporation,54.3,80.0,143629.0,10.0,2.8
+INFOSTRETCH CORPORATION,54.3,100.0,120110.0,18.0,2.4
+"BRIDGEWATER ASSOCIATES, LP",54.3,78.6,181232.0,14.0,3.1
+"Motorola Solutions, Inc.",54.2,92.3,129461.0,26.0,2.8
+"Devfi, Inc.",54.2,100.0,122757.0,16.0,2.1
+Cloudberg Tec Limited Company,54.2,100.0,96364.0,10.0,2.6
+Acetech Group Corporation,54.2,100.0,117866.0,19.0,2.4
+SLK AMERICA INC,54.2,100.0,92213.0,38.0,2.1
+XORIANT CORPORATION,54.2,100.0,126508.0,19.0,2.3
+Isolve Technology Inc,54.1,100.0,106345.0,19.0,2.0
+Massachusetts Institute of Technology,54.1,61.5,103506.0,78.0,1.4
+Astera Labs INC,54.1,100.0,172478.0,14.0,2.5
+Alpha Net Consulting LLC,54.1,100.0,134650.0,10.0,2.1
+"ICE MORTGAGE TECHNOLOGY, INC.",54.0,92.6,139007.0,27.0,2.8
+"Baystate Medical Center, Inc.",54.0,70.0,86440.0,10.0,2.5
+Gainwell Technologies LLC,54.0,95.8,110684.0,24.0,2.5
+The University of Chicago,54.0,72.3,89514.0,65.0,1.7
+Bank of China,54.0,100.0,99669.0,22.0,1.5
+"Takeda Development Center Americas, Inc.",54.0,74.2,163978.0,31.0,3.1
+VISTA APPLIED SOLUTIONS GROUP INC,54.0,100.0,111073.0,39.0,2.0
+"NAGARRO, INC",54.0,100.0,108758.0,33.0,2.1
+WSP USA Inc.,54.0,81.0,116430.0,42.0,2.5
+The Huntington National Bank,54.0,92.3,120749.0,26.0,2.5
+"United Parcel Service General Services, Co. ",54.0,86.7,156874.0,15.0,2.7
+"Credit One Bank, N.A.",53.9,92.9,112158.0,14.0,2.5
+FLORIDA GULF COAST UNIVERSITY,53.9,90.0,73907.0,10.0,1.2
+QUEST DIAGNOSTICS INCORPORATED,53.9,75.0,89534.0,16.0,2.2
+First Citizens Bank and Trust Co.,53.9,92.0,137103.0,25.0,2.9
+CLOUD5 SOLUTIONS INC,53.8,100.0,112092.0,11.0,2.0
+"The Matlen Silver Group, Inc.",53.8,100.0,117886.0,10.0,2.5
+Birlasoft Inc,53.8,97.0,102473.0,33.0,2.3
+"Cubist Systematic Strategies, LLC",53.8,45.5,264545.0,11.0,4.0
+eTek IT Services Inc,53.8,100.0,116554.0,10.0,2.1
+BOR USGA obo Augusta University,53.8,66.7,101161.0,24.0,1.4
+"comScore, Inc.",53.8,100.0,105773.0,10.0,2.3
+"PRUTECH SOLUTIONS, INC.",53.8,100.0,130620.0,14.0,2.0
+3i INFOTECH INC.,53.7,100.0,91317.0,36.0,1.8
+"Thomson Reuters Services, Inc.",53.7,100.0,90854.0,10.0,2.0
+"LOGIC PLANET, INC.",53.7,100.0,107099.0,17.0,2.1
+Hadiamondstar Software Solutions LLC,53.7,100.0,121245.0,10.0,2.1
+New York Life Insurance Company,53.7,92.6,133335.0,27.0,2.7
+DISH Network LLC,53.7,100.0,113421.0,14.0,2.4
+"AGILENT TECHNOLOGIES, INC.",53.7,90.9,167140.0,11.0,2.5
+Merck Sharp & Dohme LLC,53.7,75.9,131102.0,29.0,2.6
+Toyota Material Handling Inc.,53.6,90.0,107110.0,10.0,2.4
+Delta Dental Insurance Company,53.6,84.6,143641.0,13.0,3.1
+Risamsoft Inc.,53.6,100.0,86165.0,10.0,2.0
+Texas Tech University,53.6,66.7,95148.0,33.0,1.3
+CSG Systems Inc. d/b/a CSG,53.6,81.8,135553.0,11.0,3.4
+Dechen Consulting Group Inc,53.6,92.9,111791.0,14.0,2.1
+"GEODIS Logistics, LLC",53.6,100.0,121403.0,13.0,2.5
+IQVIA Inc.,53.5,67.6,140310.0,34.0,2.6
+University of Arkansas,53.5,93.3,66316.0,15.0,1.2
+Stier Solutions Inc,53.5,100.0,109388.0,25.0,2.1
+"Amdocs, Inc.",53.5,89.5,143020.0,19.0,2.7
+"Commonwealth Edison, An Exelon Company",53.5,100.0,99526.0,10.0,2.2
+"COMPNOVA, LLC.",53.5,91.7,132143.0,12.0,2.2
+ND Global Consulting Services Inc.,53.5,100.0,96957.0,16.0,2.2
+"Technumen, Inc.",53.5,92.6,112769.0,27.0,2.0
+"ZIFO TECHNOLOGIES, INC.",53.5,100.0,91052.0,11.0,1.5
+LORHAN CORPORATION INC.,53.5,100.0,99557.0,18.0,2.0
+The Rockefeller University,53.5,87.5,91917.0,16.0,1.9
+Oklahoma State University,53.4,100.0,76278.0,19.0,2.1
+IMR SOFT LLC,53.4,94.7,114711.0,19.0,2.5
+"Strategic Solutions Group, LLC",53.4,90.0,123258.0,10.0,2.5
+Elite IT Technologies LLC,53.4,100.0,110229.0,32.0,2.0
+"Speridian Technologies, LLC",53.4,91.7,102411.0,24.0,2.0
+ORANGEBURG COUNTY SCHOOL DISTRICT,53.4,90.9,58222.0,11.0,2.0
+Cimpress USA Incorporated,53.4,80.0,158250.0,10.0,3.0
+Fidelis Software Solutions Inc,53.4,100.0,91480.0,10.0,2.3
+Veeva Systems Inc.,53.3,100.0,132000.0,32.0,1.4
+Robert Packer Hospital,53.3,100.0,81120.0,20.0,1.0
+Corteva Agriscience LLC,53.3,90.0,118792.0,10.0,3.2
+The Pennsylvania State University,53.3,62.2,93746.0,74.0,1.2
+TANVI IT SOLUTIONS INC,53.3,100.0,108576.0,10.0,2.0
+"People Tech Group, Inc",53.3,100.0,124160.0,25.0,2.2
+"ISR INFO WAY, INC.",53.3,93.3,113847.0,15.0,2.7
+DFS Services LLC,53.3,90.0,139870.0,10.0,3.0
+FMR LLC d/b/a Fidelity Investments,53.3,100.0,107923.0,16.0,2.3
+"DISH Wireless, LLC",53.3,95.7,117771.0,23.0,2.3
+"ADP, Inc.",53.3,100.0,130335.0,13.0,2.4
+"Alcon Research, LLC",53.3,90.9,127065.0,11.0,2.5
+New York Technology Partners Inc,53.2,100.0,90865.0,15.0,2.0
+Indiana University Indianapolis,53.2,62.0,115975.0,50.0,1.6
+COMTEC CONSULTANTS INC,53.2,100.0,112753.0,15.0,2.2
+HITACHI ENERGY USA INC.,53.2,100.0,120355.0,15.0,2.0
+CIRRUS LOGIC INTERNATIONAL SEMICONDUCTOR LTD.,53.2,76.9,167248.0,13.0,3.4
+TECHNOSOFT CORPORATION,53.2,100.0,98907.0,16.0,2.2
+Visionet Systems Inc,53.2,100.0,105331.0,15.0,2.3
+EVEREST CONSULTING GROUP INC.,53.1,100.0,117658.0,25.0,2.1
+"BlackRock Financial Management, Inc. ",53.1,78.6,163150.0,14.0,2.6
+iPivot LLC,53.1,100.0,115441.0,15.0,2.3
+The University of Alabama at Birmingham,53.1,46.5,102873.0,99.0,1.4
+Altimetrik Corp.,53.1,100.0,117529.0,17.0,2.2
+Vastek Inc,53.1,100.0,97974.0,41.0,1.7
+CDW LLC,53.1,100.0,128083.0,12.0,2.3
+"BRAINS TECHNOLOGY SOLUTIONS, INC",53.0,100.0,108053.0,10.0,1.9
+Covidien LP,52.9,91.7,118220.0,12.0,3.0
+"NESTOR TECHNOLOGIES, INC.",52.9,100.0,94643.0,14.0,2.1
+"The MathWorks, Inc.",52.9,87.8,134677.0,41.0,2.6
+AARNA PRIYA INC,52.9,100.0,120750.0,14.0,2.2
+ALIEF INDEPENDENT SCHOOL DISTRICT,52.9,100.0,64100.0,12.0,1.0
+"TEKsystems Global Services, LLC",52.9,76.5,140379.0,17.0,2.9
+"BURNS & MCDONNELL ENGINEERING COMPANY, INC.",52.9,100.0,114140.0,14.0,2.3
+"INCEDO, INC.",52.9,89.5,120478.0,19.0,2.8
+Fidelity Brokerage Services LLC d/b/a Fidelity Investments,52.9,91.7,127412.0,12.0,3.0
+Conflux Systems Inc,52.9,100.0,97241.0,17.0,2.0
+"Corgan Associates, Inc.",52.9,100.0,84221.0,14.0,1.7
+VMware LLC,52.9,94.7,202995.0,19.0,2.4
+State Farm Mutual Automobile Insurance Company,52.9,93.8,119935.0,16.0,2.7
+SAGE IT INC,52.8,98.0,101043.0,51.0,1.7
+"Raymond James & Associates, Inc.",52.8,72.5,142997.0,40.0,2.8
+BEACONFIRE STAFFING SOLUTIONS INC.,52.8,100.0,100446.0,15.0,1.7
+"inContact, Inc.",52.8,100.0,130663.0,10.0,2.3
+"Inovalon, Inc.",52.7,87.5,137670.0,16.0,2.8
+"LS Solutions, Inc.",52.7,100.0,91231.0,13.0,2.1
+"Qualcomm Atheros, Inc. ",52.7,100.0,158919.0,12.0,2.2
+California Department of Transportation,52.7,97.4,96131.0,38.0,2.0
+"ACCELYST, LLC",52.7,100.0,105354.0,10.0,2.1
+The Home for Little Wanderers,52.7,92.3,54896.0,13.0,2.5
+The Devereux Foundation,52.7,100.0,44036.0,64.0,1.2
+Veridic Solutions LLC,52.7,100.0,97882.0,14.0,1.9
+Datanormus LLC,52.7,100.0,105343.0,25.0,2.0
+"NobleSoft Solutions, Inc.",52.7,100.0,105794.0,10.0,2.2
+Ardagh Glass Inc.,52.7,90.0,114785.0,10.0,2.9
+"MOURI Tech, LLC",52.7,93.3,112633.0,15.0,2.2
+S3STAFFINGUSA INC,52.7,100.0,93983.0,12.0,2.0
+Bankers Healthcare Group LLC,52.7,50.0,133772.0,12.0,2.4
+The Unity Hospital of Rochester,52.7,95.2,99124.0,21.0,2.0
+Harvard University,52.7,63.1,92967.0,84.0,1.4
+Quest IT Solutions Inc,52.6,100.0,88584.0,24.0,2.0
+ENIAC SYSTEMS INC,52.6,100.0,122620.0,12.0,2.2
+New Jersey Institute of Technology,52.6,81.0,95221.0,21.0,2.0
+M&T Bank,52.6,85.2,122131.0,27.0,3.1
+Intellectt Inc,52.6,97.0,98086.0,33.0,1.9
+Galax-Esystems Corporation,52.6,100.0,114300.0,12.0,2.1
+Veenus Infotechs Corporation,52.6,100.0,84733.0,19.0,2.1
+PIONEER CONSULTING LLC,52.6,100.0,113132.0,17.0,1.9
+"SMBC Capital Markets, Inc.",52.6,92.3,151397.0,13.0,2.8
+"LER TechForce, LLC",52.6,88.9,104335.0,27.0,2.0
+OneMain General Services Corporation,52.6,94.7,110552.0,19.0,2.4
+Source Infotech Inc.,52.5,100.0,104038.0,13.0,2.0
+AGILETAL TECHNOLOGIES INC.,52.5,100.0,97313.0,14.0,1.9
+PACCAR Inc,52.5,100.0,109476.0,10.0,2.3
+"H-E-B, LP",52.4,86.7,135774.0,15.0,3.1
+"Nomura Holding America, Inc.  ",52.4,85.0,159906.0,20.0,2.9
+ITG TECHNOLOGIES INC,52.4,100.0,107988.0,12.0,2.2
+RWaltz Software Services Group Inc.,52.4,90.0,123542.0,10.0,2.4
+"Northstar Group, Inc",52.4,100.0,107800.0,24.0,2.0
+Emonics LLC,52.4,95.8,104720.0,24.0,2.3
+"AMERICAN TECH VISION SOLUTIONS, LLC",52.4,100.0,90150.0,10.0,1.9
+TekinvaderZ LLC,52.4,100.0,104359.0,11.0,2.0
+"CALIFORNIA CREATIVE SOLUTIONS, INC.",52.4,100.0,93967.0,15.0,2.0
+SAPPHIRE SOFTWARE SOLUTIONS INC.,52.4,100.0,108778.0,18.0,2.0
+"Dexian, LLC",52.4,86.7,139946.0,15.0,2.7
+BROADRANGE TECHNOLOGIES INC,52.3,100.0,82900.0,12.0,2.0
+"Prime Healthcare Management, Inc.",52.3,90.9,99422.0,11.0,1.6
+The University of Tennessee Health Science Center,52.3,81.0,80560.0,21.0,1.4
+Pentangle Tech Services LLC,52.3,100.0,92237.0,18.0,1.8
+"Sephora USA, Inc.",52.3,85.7,152698.0,14.0,2.6
+MINISOFT TECHNOLOGIES LLC,52.3,100.0,113434.0,17.0,2.1
+Tinder LLC,52.2,86.4,195117.0,22.0,2.4
+PEGASYSTEMS INC.,52.2,84.6,160488.0,13.0,3.2
+"World Wide Technology Holding Company, LLC",52.2,75.0,146139.0,12.0,3.0
+Akshaya Inc.,52.2,90.0,125203.0,10.0,2.4
+"Regal IT Services, Inc",52.2,100.0,94559.0,18.0,2.0
+HITECK SOLUTIONS INC.,52.1,100.0,96364.0,11.0,2.0
+AMEYA GLOBAL INC,52.1,100.0,111545.0,18.0,2.0
+SDVS Technologies LLC,52.1,100.0,113932.0,16.0,2.0
+ECONTENTI INC,52.1,100.0,100614.0,13.0,2.0
+Fridley Public Schools Independent School District 14,52.1,100.0,60923.0,21.0,2.0
+"SHOOLIN, INC.",52.1,100.0,104686.0,11.0,1.9
+Selsoft Inc,52.1,100.0,87022.0,15.0,2.0
+Corning Incorporated,52.1,76.9,139072.0,13.0,3.2
+COGNIER INC,52.1,100.0,105206.0,24.0,1.8
+"INFOSHARE SYSTEMS, INC.",52.1,100.0,125045.0,14.0,2.1
+Metrix IT Solutions INC,52.1,100.0,106905.0,14.0,2.1
+North Carolina State University,52.0,76.1,84644.0,67.0,1.7
+"Point72, L.P.",52.0,61.1,205317.0,18.0,3.4
+eBS-Minds IT Inc,52.0,100.0,96724.0,11.0,2.1
+Bering Strait School District,52.0,100.0,79980.0,20.0,2.0
+Halifax County Schools,52.0,100.0,47893.0,12.0,1.0
+"SQUAD SOFTWARE, INC.",52.0,100.0,99226.0,18.0,2.0
+Sysintelli Inc.,52.0,100.0,104778.0,18.0,1.9
+Xebia USA Inc.,52.0,84.6,133530.0,26.0,1.8
+Portsmouth Public Schools,52.0,90.9,68081.0,11.0,1.0
+"Experis US, LLC",51.9,88.9,120706.0,36.0,2.6
+Nisum Technologies Inc.,51.9,91.7,142927.0,24.0,1.7
+"MUFG Bank, Ltd.",51.9,76.0,154831.0,25.0,2.8
+"Private National Mortgage Acceptance Company, LLC",51.9,87.5,142997.0,16.0,2.4
+"THE TRADE DESK, INC.",51.9,85.7,156804.0,14.0,2.5
+WIZARD TECH SOLUTIONS INC.,51.9,100.0,94818.0,11.0,2.0
+"Taproot Solutions, Inc.",51.9,100.0,114024.0,12.0,2.0
+"MAVEN COMPANIES, INC.",51.9,100.0,96548.0,10.0,1.5
+Savannah College of Art and Design,51.9,92.9,65976.0,14.0,1.5
+Tek Leaders Inc,51.9,100.0,94957.0,22.0,1.9
+"MSCI, INC.",51.8,87.5,144694.0,16.0,2.7
+SYNOVA SOLUTIONS INC,51.8,100.0,85000.0,18.0,2.0
+"Techie Associates, LLC",51.8,100.0,106425.0,12.0,1.6
+National Charitable Services LLC d/b/a Fidelity Investments,51.8,100.0,117331.0,10.0,2.0
+KEYSTONE TECHNOLOGY PARTNERS INC,51.8,100.0,113640.0,13.0,2.0
+"Arista Networks, Inc.",51.8,100.0,134121.0,18.0,2.0
+Career Soft Solutions Inc,51.8,100.0,112069.0,11.0,2.1
+Sanford,51.8,95.0,58417.0,20.0,1.4
+Palayekar Companies Inc,51.8,100.0,110014.0,10.0,2.1
+"Rivian and VW Group Technology, LLC",51.8,80.0,191953.0,20.0,2.3
+SAPIEN INFOTECH INC,51.8,100.0,85000.0,18.0,2.0
+E-GIANTS TECHNOLOGIES LLC,51.8,100.0,100921.0,20.0,2.0
+"W.W. Grainger, Inc.",51.8,72.7,143723.0,11.0,2.7
+Charter Communications Inc. ,51.7,78.8,123319.0,66.0,2.6
+"Sigma Computing, Inc.",51.7,75.0,207847.0,12.0,3.2
+Massachusetts General Physicians Organization,51.7,52.9,213344.0,17.0,2.0
+Denver Public Schools District 1,51.7,100.0,63278.0,17.0,2.0
+"Verkada, Inc",51.7,85.7,176357.0,14.0,2.4
+University of Michigan,51.7,56.6,92506.0,196.0,1.7
+"Avani Technology Solutions, Inc.",51.7,100.0,106136.0,11.0,1.7
+Boston Medical Center Corporation,51.7,84.6,102041.0,13.0,2.0
+Vision IT USA Inc.,51.7,100.0,104138.0,11.0,2.0
+NEXUS IT INC,51.7,100.0,89435.0,13.0,2.1
+INFONEON TECHNOLOGIES INC,51.6,100.0,84052.0,16.0,2.0
+Innovative Consulting Solutions LLC,51.6,100.0,100621.0,16.0,2.0
+FIRST OBJECT INC,51.6,100.0,101872.0,11.0,2.1
+"ECHELON IT, INC.",51.6,100.0,111042.0,19.0,1.9
+UNICON SCIENCES INC,51.6,100.0,91244.0,12.0,2.1
+Sanofi Pasteur Inc.,51.6,90.9,113279.0,11.0,2.4
+VISTEN IT INC,51.6,100.0,84052.0,16.0,2.0
+DATANOVA TECHNOLOGIES INC,51.6,100.0,85000.0,16.0,2.0
+INFOTECH PRISM LLC,51.6,100.0,100179.0,21.0,1.9
+ABB Inc.,51.6,100.0,115066.0,13.0,2.0
+Anveta Inc,51.5,100.0,110081.0,10.0,2.0
+Navi Technologies Inc,51.5,100.0,101521.0,15.0,2.0
+INFO KEYS INC,51.5,100.0,93352.0,10.0,2.1
+"WINDYCITY TECHNOLOGIES INC.,",51.5,90.0,107000.0,10.0,2.8
+Squad Software Inc,51.5,100.0,106630.0,14.0,1.9
+Orpine Inc,51.5,100.0,103764.0,10.0,2.1
+"HDR Engineering, Inc.",51.5,81.2,123490.0,16.0,2.6
+AllPros Consulting LLC,51.4,100.0,103456.0,10.0,2.0
+"UNIVERSITY OF CALIFORNIA, IRVINE",51.4,71.0,112115.0,31.0,2.0
+3S BUSINESS CORPORATION,51.4,100.0,108899.0,12.0,2.0
+"GSK Solutions, Inc.",51.4,100.0,106278.0,10.0,2.0
+Strategic Resources International Inc,51.4,100.0,97761.0,28.0,1.7
+Acme Corporation,51.4,100.0,0.0,14.0,2.0
+"PamTen, Inc.",51.4,94.7,112488.0,19.0,2.0
+"SmartWorks, LLC",51.4,92.3,114843.0,13.0,2.3
+"PREMIER IT SOLUTIONS, LLC",51.4,100.0,110378.0,10.0,2.0
+"University of California, Berkeley",51.4,83.9,94920.0,56.0,1.9
+ALIGHT SOLUTIONS LLC,51.4,80.0,147320.0,10.0,2.6
+"Avco Consulting, Inc.",51.3,86.8,112542.0,38.0,2.0
+"Cyient, Inc. ",51.3,100.0,99027.0,13.0,1.4
+"ZT Group Int'l, Inc.",51.3,100.0,119432.0,11.0,1.8
+VISTALTECH INC,51.3,100.0,96008.0,13.0,2.0
+Oregon State University,51.3,81.8,69769.0,44.0,1.8
+DONATO TECHNOLOGIES INC,51.3,100.0,104883.0,15.0,1.9
+"ALLIED BUSINESS CONSULTING, INC.",51.3,100.0,94069.0,12.0,2.0
+IPOLARITY LLC,51.3,92.6,108530.0,27.0,2.3
+"DGN Technologies, Inc",51.3,85.7,151682.0,21.0,2.4
+"Hinge Health, Inc.",51.3,81.8,197157.0,11.0,3.3
+Think Logic Systems Inc,51.3,100.0,99528.0,10.0,1.9
+"DATAEDGE, INC",51.2,100.0,112200.0,10.0,2.0
+Vallejo City Unified School District,51.2,100.0,60711.0,10.0,2.0
+"VYZER SOLUTIONS, INC",51.2,100.0,100700.0,10.0,2.0
+INTELIROUTE TECHNOLOGIES LLC,51.2,100.0,110231.0,12.0,2.0
+"IBS SOFTWARE AMERICAS, INC. (f/k/a IBS Software Services Americas, Inc.)",51.2,84.6,108506.0,13.0,2.0
+"Financial Industry Regulatory Authority, Inc.",51.2,83.3,152339.0,12.0,3.3
+Ellucian Company LLC,51.2,92.3,126529.0,13.0,2.4
+"INFORMATION TECHNOLOGY AND MANAGEMENT CONSULTING, INC.",51.2,100.0,105111.0,12.0,2.0
+"SYSTECHCORP, INC.",51.2,100.0,100550.0,10.0,1.9
+New York City Department of Education,51.1,100.0,66733.0,11.0,2.0
+"eviCore healthcare MSI, LLC",51.1,90.9,122009.0,11.0,2.7
+Thinklusive Inc,51.1,100.0,106998.0,11.0,1.8
+Hughes Network Systems LLC,51.1,88.2,136722.0,17.0,2.5
+Hinduja Tech Inc.,51.1,90.9,93844.0,11.0,2.5
+"PYRAMID TECHNOLOGY SOLUTIONS, INC",51.1,100.0,103681.0,19.0,1.8
+Tek Tree LLC,51.1,100.0,104677.0,11.0,2.0
+SecureNet Systems Corporation,51.1,100.0,88232.0,11.0,2.0
+L&T TECHNOLOGY SERVICES LIMITED,51.1,88.2,115380.0,17.0,2.1
+San Jose Unified School District,51.1,100.0,71887.0,11.0,2.0
+"Western Union, LLC",51.1,77.8,155954.0,27.0,2.9
+University of Oregon,51.0,81.8,77481.0,11.0,1.8
+The University of Texas Health Science Center at Houston,51.0,64.4,103744.0,45.0,1.9
+XL SOFTEK INC.,51.0,100.0,110852.0,10.0,2.0
+"Fractal Analytics, Inc.",51.0,90.0,136950.0,10.0,2.3
+Central Consolidated School District,51.0,100.0,54750.0,10.0,2.0
+Kean University,51.0,100.0,105547.0,10.0,2.0
+Kelith Group Inc,51.0,100.0,94933.0,10.0,2.0
+"Endava Solutions, LLC",51.0,100.0,105250.0,15.0,1.8
+"CA, Inc.",51.0,100.0,145416.0,10.0,2.0
+Anne Arundel County Public Schools,51.0,100.0,90161.0,10.0,2.0
+VISUAL TECHNOLOGIES LLC,51.0,100.0,112312.0,10.0,2.0
+"Synopsys, Inc.",51.0,100.0,179272.0,10.0,2.0
+"SYSTEM SOFT TECHNOLOGIES, LLC",51.0,81.0,114720.0,58.0,1.9
+Maplebear Inc.,50.9,63.9,189639.0,36.0,3.5
+"Zillow, Inc.",50.9,81.1,183403.0,37.0,2.7
+Virginia Polytechnic Institute & State University,50.9,58.9,86203.0,90.0,1.7
+Ralph Lauren Corporation,50.9,60.0,151619.0,10.0,3.6
+EPSoft Technologies LLC,50.9,100.0,106893.0,12.0,1.7
+"NYSARC, INC ESSEX COUNTY CHAPTER",50.9,100.0,39520.0,40.0,1.0
+DOTCOM TEAM LLC,50.8,100.0,99157.0,20.0,1.6
+"INDUS GROUP, INC.",50.8,100.0,108521.0,10.0,1.8
+University of Chicago,50.8,93.3,79452.0,15.0,1.6
+"Perkins & Will, Inc.",50.8,100.0,73279.0,10.0,1.9
+"Megan Soft, Inc.",50.8,88.9,111534.0,18.0,2.0
+Board of Regents of the University of Nebraska ,50.8,100.0,70065.0,12.0,1.0
+Tiospaye Topa School,50.8,100.0,51950.0,10.0,1.0
+"ANSYS, Inc.",50.7,92.9,134740.0,14.0,2.4
+"SAMSUNG AUSTIN SEMICONDUCTOR, LLC",50.7,80.0,153999.0,20.0,3.0
+RESILIENCE HEALTHCARE CHICAGO GRADUATE EDUCATION FOUNDATION,50.7,100.0,82622.0,18.0,1.1
+"VMC SOFT TECHNOLOGIES, INC.",50.7,90.0,109733.0,10.0,2.0
+"Juniper Networks, Inc.",50.7,81.4,173688.0,59.0,2.4
+R SYSTEMS INC.,50.7,100.0,94833.0,12.0,1.3
+University of Mississippi,50.7,66.7,74366.0,18.0,1.0
+University of Texas Health Science Center at San Antonio,50.7,50.0,162732.0,20.0,2.0
+"Hellmuth, Obata & Kassabaum, Inc.",50.7,90.9,94051.0,11.0,1.6
+EPACE TECHNOLOGIES INC,50.6,100.0,110770.0,11.0,1.9
+KINGSTON TECHNOLOGIES INC,50.6,100.0,96200.0,11.0,1.9
+"Tekgence, Inc.",50.6,92.3,114582.0,13.0,2.4
+ICONMA LLC,50.6,80.0,125156.0,15.0,2.5
+"LEARNBEYOND CONSULTING, LLC.",50.6,100.0,102202.0,11.0,1.8
+ASTIR SERVICES LLC,50.6,100.0,110071.0,14.0,1.6
+VIRAT SOLUTIONS INC,50.5,100.0,112137.0,10.0,1.9
+JEAN MARTIN INC,50.5,100.0,106650.0,10.0,1.9
+Dish Wireless LLC,50.5,90.0,120795.0,20.0,2.4
+AMALGAM TECHNOLOGIES INC,50.5,100.0,92887.0,10.0,1.9
+"Avant Healthcare Professionals, LLC.",50.5,84.6,73908.0,26.0,2.8
+Clemson University,50.5,87.5,78239.0,16.0,1.6
+TEKSOFT SYSTEMS INC.,50.5,100.0,95836.0,10.0,1.9
+DRACS CONSULTING GROUP INC,50.5,100.0,102106.0,13.0,1.8
+INTELI PLATFORMS INC.,50.5,100.0,95218.0,13.0,1.8
+DB USA Core Corporation,50.5,69.4,134135.0,36.0,3.0
+JKV International LLC,50.4,100.0,97077.0,11.0,1.6
+Tekaccel Inc,50.4,87.0,121020.0,23.0,2.4
+Intellyk Inc.,50.4,100.0,90645.0,11.0,1.6
+Open Avenues Foundation,50.4,92.1,84514.0,38.0,1.9
+"Richmond Children Center, Inc.",50.4,93.1,46554.0,72.0,1.2
+"Gilead Sciences, Inc.",50.4,76.5,157835.0,51.0,2.8
+"TECHPRO SOLUTIONS, INC.",50.4,100.0,91360.0,10.0,1.7
+ Saks.com LLC,50.4,83.3,142725.0,12.0,2.5
+"QUALYS, INC.",50.4,100.0,133192.0,10.0,1.8
+L&T Technology Services LLC,50.3,92.9,96731.0,14.0,2.0
+Bean Infosystems LLC,50.3,100.0,101829.0,14.0,1.8
+DVG TECH SOLUTIONS LLC.,50.3,93.3,97274.0,15.0,2.0
+The Trustees of Princeton University,50.3,61.3,96230.0,62.0,1.5
+"ZIFO TECHNOLOGIES, INC",50.3,88.2,97660.0,17.0,1.6
+CODE TECH INC,50.2,94.4,110818.0,18.0,2.1
+NCR Voyix Corporation,50.2,87.5,109618.0,24.0,2.4
+MPG Operations LLC,50.2,76.1,128097.0,67.0,2.6
+POSITIVE GROUP LLC,50.1,100.0,101091.0,10.0,1.8
+George Mason University,50.1,57.9,108233.0,19.0,1.4
+"Antra, Inc.",50.1,100.0,95427.0,37.0,1.2
+"Langan Engineering and Environmental Services, LLC",50.1,100.0,76958.0,12.0,1.2
+University of Mississippi Medical Center,50.0,57.1,201528.0,21.0,2.2
+UNIVERSITY OF CINCINNATI,50.0,73.9,87257.0,23.0,1.9
+Beacon Hill Solutions Group LLC,50.0,84.1,112273.0,44.0,2.1
+Tufts University,49.9,67.9,100959.0,28.0,1.5
+"Teradata Operations, Inc.",49.9,68.4,154159.0,19.0,3.4
+SOUTHERN METHODIST UNIVERSITY,49.9,90.9,64587.0,11.0,1.5
+"De Lage Landen Financial Services, Inc.",49.9,80.0,136694.0,10.0,2.8
+Northeastern University,49.9,57.1,123111.0,28.0,1.9
+"Sapphire Software Solutions, Inc.",49.8,89.7,109005.0,39.0,1.9
+SERVESYS CORPORATION,49.8,90.9,92318.0,11.0,1.7
+"Asta CRS, Inc.",49.8,92.3,116040.0,13.0,2.2
+Dignity Health,49.8,81.8,118468.0,11.0,2.0
+KGATE Technologies Inc,49.8,93.3,108438.0,15.0,2.0
+"INFO WAY SOLUTIONS, LLC",49.7,100.0,118649.0,10.0,1.4
+Texas A&M Engineering Experiment Station,49.7,81.8,63929.0,11.0,1.6
+"APPTRICS, LLC",49.7,91.7,115167.0,12.0,1.8
+ALLEN INSTITUTE,49.7,75.0,91010.0,12.0,2.2
+"COVANT SOLUTIONS, INC.",49.6,92.9,118293.0,14.0,2.0
+Pilot Technologies LLC,49.6,100.0,94573.0,21.0,1.1
+H-TOWN TECHNOLOGIES INC,49.6,100.0,98970.0,18.0,1.6
+"University of Maryland, College Park",49.5,68.0,94380.0,25.0,1.8
+"Illumina, Inc.",49.5,76.0,155090.0,25.0,3.2
+Brigham and Women's Hospital,49.5,83.3,83750.0,54.0,1.4
+Namitus Technologies Inc,49.5,100.0,102105.0,15.0,1.6
+eClinicalWorks LLC,49.4,81.0,102507.0,21.0,2.5
+"KARWELL TECHNOLOGIIES, INC.",49.4,100.0,100763.0,17.0,1.4
+CNN IT Corp Inc.,49.4,92.3,94538.0,13.0,2.0
+Ykunt Inc,49.4,100.0,94462.0,10.0,1.6
+Emory University,49.4,55.3,80970.0,85.0,1.6
+Collaborate Solutions Inc.,49.4,95.2,102792.0,21.0,1.7
+Georgia-Pacific LLC,49.4,72.7,138818.0,11.0,2.6
+Majestic IT Services Inc,49.4,90.9,102994.0,11.0,2.4
+"ActiveHours, Inc.",49.3,78.6,206662.0,14.0,3.3
+Arizona State University,49.3,69.5,86084.0,59.0,1.3
+SCHRILL TECHNOLOGIES INC,49.3,87.0,99166.0,23.0,2.4
+University of California at Santa Barbara,49.3,70.4,98069.0,27.0,2.0
+"UNITED PHARMA TECHNOLOGIES, INC.",49.2,88.2,100561.0,17.0,2.1
+Rochester General Hospital,49.2,90.0,129240.0,20.0,2.0
+"Scale AI, Inc.",49.2,72.7,219355.0,11.0,2.9
+ITLIZE GLOBAL LLC.,49.1,100.0,92438.0,13.0,1.2
+Texas A&M AgriLife Research,49.1,88.2,66195.0,17.0,1.5
+Sanofi US Services Inc.,49.1,78.9,132407.0,19.0,2.6
+BILINGUALS INC.,49.1,100.0,63465.0,11.0,1.3
+"Rubrik, Inc.",49.1,77.3,209386.0,22.0,2.5
+New Mexico State University,49.1,84.6,69862.0,13.0,1.1
+"Semiconductor Components Industries, LLC",49.0,75.0,121132.0,16.0,3.1
+Eliquent Life Sciences,49.0,84.6,101120.0,13.0,2.2
+VENNISON TECHNOLOGIES INC,49.0,100.0,94962.0,12.0,1.4
+Regents of the University of California at Riverside,48.9,85.0,99685.0,20.0,1.8
+LatentView Analytics Corporation,48.9,76.0,151260.0,25.0,2.5
+"Optimal Technologies, Inc.",48.9,100.0,93614.0,12.0,1.5
+University of Georgia; OGE,48.9,76.9,70447.0,13.0,1.1
+West Contra Costa Unified School District,48.8,91.3,83499.0,23.0,2.0
+Ancile Inc,48.8,100.0,72980.0,15.0,1.5
+California Institute of Technology/Jet Propulsion Laboratory,48.8,47.4,129723.0,19.0,2.4
+"The University of Phoenix, Inc.",48.8,85.7,127021.0,14.0,2.1
+Appian Corporation,48.8,80.0,147801.0,15.0,2.2
+University of Georgia,48.7,59.4,80383.0,32.0,1.3
+Stanford Health Care,48.6,71.4,125556.0,21.0,2.8
+"Cigniti Technologies, Inc.",48.6,85.7,108524.0,14.0,2.3
+California Institute of Technology,48.6,65.6,88521.0,61.0,1.8
+CEPHEID,48.5,70.4,145984.0,27.0,2.7
+Walbrydge Technologies Inc,48.5,85.0,117044.0,20.0,2.3
+Pacific Gas and Electric Company ,48.5,81.8,181619.0,11.0,2.5
+"Marvell Semiconductor, Inc. ",48.4,81.5,160310.0,27.0,2.5
+"D. E. Shaw & Co., L.P.",48.4,27.3,204545.0,11.0,2.5
+"Beth Israel Deaconess Medical Center, Inc.",48.4,100.0,72974.0,11.0,1.5
+"SVK Systems, Inc.",48.3,92.3,112115.0,13.0,1.9
+SONY INTERACTIVE ENTERTAINMENT LLC,48.3,65.0,167591.0,40.0,2.6
+University of Massachusetts Amherst,48.2,82.4,80904.0,17.0,1.8
+"SAI TECHNOLOGIES, LLC.",48.1,90.0,95804.0,10.0,2.2
+"Epitec, Inc.",48.1,68.1,110435.0,47.0,1.9
+"Deutsche Bank Securities, Inc.",48.1,41.2,216733.0,17.0,2.6
+The Jackson Laboratory ,48.1,76.0,86848.0,25.0,2.4
+"IXL Learning, Inc. ",48.1,72.7,155416.0,11.0,2.5
+Johns Hopkins University,48.1,51.3,91414.0,156.0,1.7
+Americold Logistics LLC,48.1,80.0,115768.0,10.0,2.9
+"Postman, Inc.",48.1,80.0,213970.0,10.0,2.8
+The Children's Hospital of Philadelphia,48.0,84.8,73149.0,46.0,1.9
+"American Unit, Inc",48.0,90.9,100545.0,11.0,2.0
+"TRANSNATIVE ASSOCIATES, INC.",48.0,100.0,164715.0,10.0,1.4
+Genesis Corp,48.0,70.9,123853.0,55.0,2.7
+"PHYSICIAN AFFILIATE GROUP OF NY, PC",47.9,85.7,256438.0,35.0,2.0
+RBC Capital Markets LLC,47.9,64.3,170268.0,14.0,2.8
+"Takeda Pharmaceuticals USA, Inc.",47.9,61.5,187068.0,13.0,3.2
+Parexel International LLC,47.9,70.0,145233.0,10.0,2.6
+ADITI CONSULTING LLC,47.9,82.4,126419.0,17.0,2.1
+"FIS Management Services, LLC",47.8,47.6,150259.0,168.0,2.6
+"Samsung Austin Semiconductor, LLC.",47.8,78.9,117741.0,19.0,2.5
+Savvients Inc,47.7,100.0,91394.0,10.0,1.2
+Indiana University,47.7,62.1,79548.0,58.0,1.4
+ERBA Solutions LLC,47.7,100.0,87920.0,10.0,1.2
+PARAMOUNT SOFTWARE SOLUTIONS INC,47.6,90.0,111098.0,10.0,2.1
+"COMPUSOFT INTEGRATED SOLUTIONS, INC",47.6,90.9,97581.0,11.0,1.9
+BNS INTERNATIONAL INC,47.6,100.0,93055.0,10.0,1.2
+Iredell-Statesville Schools,47.6,100.0,48121.0,13.0,1.0
+"Upgrade, Inc.",47.5,76.9,151445.0,13.0,2.9
+American General Life Insurance Company,47.5,71.4,119848.0,14.0,2.1
+Research Foundation for the State University of New York,47.5,91.7,70382.0,12.0,1.4
+TANISHA SYSTEMS INC,47.5,93.8,86402.0,16.0,1.6
+Federal Soft Systems Inc.,47.5,100.0,87413.0,13.0,1.2
+ARDOR IT SYSTEMS LLC,47.5,91.7,109752.0,12.0,1.8
+Edwards Lifesciences LLC,47.4,75.0,131901.0,12.0,3.0
+UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL,47.4,60.9,113214.0,46.0,2.1
+Thought Circuits Services LLC,47.4,100.0,92060.0,10.0,1.1
+VERTEXPIRE LLC,47.4,1.3,254149.0,77.0,3.6
+Syracuse University,47.4,91.7,70597.0,12.0,1.1
+"GE ENERGY MANAGEMENT SERVICES, LLC",47.3,80.0,147746.0,10.0,2.2
+UNIVERSITY OF NORTH TEXAS,47.2,54.2,80023.0,24.0,1.3
+"Tek Labs, Inc.",47.2,89.5,87849.0,19.0,1.9
+University of Idaho,47.2,76.5,81085.0,17.0,1.2
+ARTIFINT TECHNOLOGIES LLC,47.1,100.0,85254.0,21.0,1.0
+Raas Infotek LLC,47.1,93.3,111140.0,15.0,1.6
+"UNIVERSITY OF CALIFORNIA, SAN DIEGO",47.1,56.2,97555.0,96.0,1.9
+Softworld Technologies LLC,47.0,100.0,88870.0,10.0,1.1
+Three Affiliated Tribes Head Start,46.9,50.0,50400.0,22.0,1.0
+TRACEMATRIX TECHNOLOGIES LLC,46.8,0.0,270347.0,49.0,3.9
+AMERICAN TECHNOLOGY GROUP LLC,46.8,100.0,82846.0,18.0,1.0
+Sanford Burnham Prebys Medical Discovery Institute,46.7,60.0,90959.0,10.0,1.6
+"Saama Technologies, LLC",46.7,75.0,127580.0,20.0,2.2
+CLOUD360 INC,46.7,100.0,67486.0,11.0,1.0
+ROBOTICS TECHNOLOGIES LLC,46.6,100.0,82897.0,16.0,1.0
+The Curators of the University of Missouri,46.6,61.5,77625.0,65.0,1.2
+Headstrong Services LLC,46.6,78.6,136962.0,14.0,2.3
+Caresoft Global Technologies Inc,46.6,81.2,87834.0,16.0,1.9
+"Cvent, Inc.",46.6,70.0,160445.0,10.0,2.6
+"Millennium Software, Inc.",46.6,68.0,129518.0,25.0,2.6
+University of Colorado,46.5,48.9,93030.0,45.0,1.7
+Weldon City Schools,46.5,100.0,45890.0,12.0,1.0
+DIGITAL TECHNOLOGIES LLC,46.5,100.0,88181.0,15.0,1.0
+AB Health Corp LLC,46.5,100.0,69450.0,12.0,1.0
+University of Illinois,46.5,46.1,91252.0,89.0,1.7
+Spotsylvania Public County Schools,46.5,100.0,58485.0,15.0,1.0
+"Alten Technology USA, Inc.",46.4,92.9,92775.0,14.0,1.6
+Infylogy Corp.,46.4,83.3,100808.0,12.0,2.2
+SUNSOFT SERVICES INC,46.3,100.0,86987.0,11.0,1.0
+3D TECHNOLOGIES LLC,46.2,100.0,83223.0,12.0,1.0
+SUNRISE TECHNOLOGIES LLC,46.2,100.0,86831.0,12.0,1.0
+CYBAGE SOFTWARE INC,46.2,72.7,108180.0,11.0,2.0
+"PRISTINE REHAB CARE, LLC",46.2,100.0,80340.0,12.0,1.0
+"SRI Tech Solutions, Inc.",46.2,90.0,84489.0,10.0,1.6
+"Diaspark, Inc.",46.2,91.7,93912.0,12.0,1.2
+"ITSTAC, LLC",46.1,90.0,88992.0,10.0,1.8
+QUANTUM TECHNOLOGIES LLC,46.1,100.0,81557.0,11.0,1.0
+DK Crown Holdings Inc.,46.1,81.2,125617.0,16.0,2.0
+TRANSCEND IT SOLUTIONS LLC.,46.1,90.9,82359.0,11.0,1.7
+University of Maryland Baltimore,46.1,53.3,134321.0,30.0,1.8
+MACHINE LEARNING TECHNOLOGIES LLC,46.0,100.0,94432.0,10.0,1.0
+"Altair Engineering, Inc.",45.9,90.9,112874.0,11.0,1.6
+Georgia Institute of Technology,45.9,63.4,85594.0,41.0,1.5
+Dataquad Inc,45.9,86.7,102362.0,15.0,1.8
+APPLAB SYSTEMS INC,45.9,83.3,105928.0,24.0,2.0
+The University of Texas at San Antonio,45.8,69.2,85384.0,13.0,1.3
+Hitachi Digital Services LLC,45.8,82.6,119578.0,23.0,2.0
+CRYSTAL ANALYTICS LLC,45.8,0.0,255894.0,66.0,3.9
+SELOGIX SERVICES LLC,45.8,0.0,263868.0,53.0,3.9
+The Stepping Stones Group LLC,45.7,86.7,87772.0,15.0,1.8
+"RingCentral, Inc.",45.7,60.0,191225.0,10.0,3.2
+University of Colorado Denver,45.7,74.0,85075.0,50.0,2.2
+"Discord, Inc.",45.6,40.0,225624.0,15.0,3.2
+Shoolin Inc,45.6,85.7,98155.0,14.0,1.6
+University of Massachusetts Dartmouth,45.5,50.0,96760.0,10.0,1.9
+"GoDaddy.com, LLC",45.5,77.8,147036.0,18.0,2.4
+Washington State University,45.3,58.3,94231.0,24.0,1.5
+The College of William and Mary,45.3,39.1,94660.0,23.0,1.5
+Federal Home Loan Mortgage Corporation,45.3,57.1,450603.0,49.0,2.6
+DIGITALDRIP LLC,45.3,0.0,262520.0,50.0,3.9
+"iTech US, Inc.",45.2,80.0,102234.0,15.0,2.1
+THE CAPITAL MARKETS COMPANY,45.1,80.0,129600.0,10.0,2.0
+DATAREK SERVICES LLC,45.1,0.0,258109.0,55.0,3.9
+FAMILY HEALTHCARE NETWORK,45.1,57.1,242131.0,21.0,3.3
+Texas Instruments Incorporated,45.1,60.0,152593.0,30.0,2.5
+NIC INFO TEK INC,45.0,83.3,106829.0,12.0,2.1
+"Acuity Intelligent Spaces, Inc.",45.0,80.0,113352.0,10.0,2.4
+Astute Solutions LLC,45.0,92.9,103728.0,14.0,1.3
+"Lawrence Livermore National Security, LLC",45.0,43.1,160318.0,51.0,2.1
+"GlobalFoundries U.S., Inc.",45.0,69.2,127711.0,26.0,2.6
+ETOUCH SYSTEMS CORPORATION,45.0,68.8,126186.0,16.0,1.9
+Relanto Inc,44.9,81.8,120364.0,11.0,2.0
+Collasys LLC,44.8,85.7,89260.0,14.0,1.8
+"Nutanix, Inc.",44.8,65.6,201464.0,32.0,3.1
+"Trinity Consultants, Inc.",44.7,69.2,106154.0,13.0,2.5
+University of Massachusetts Chan Medical School,44.6,72.7,77797.0,22.0,1.8
+Ally Bank,44.5,66.7,124800.0,15.0,3.0
+Visam Technologies Inc.,44.5,86.4,100840.0,22.0,1.5
+Marlabs LLC,44.4,75.0,106618.0,28.0,2.2
+"J.B. Hunt Transport, Inc.",44.4,51.6,128527.0,31.0,2.5
+NEXTILE TECHNOLOGIES LLC,44.4,0.0,254234.0,56.0,3.9
+Vicksburg Warren School District,44.3,90.9,44200.0,11.0,1.0
+STACKLE LLC,44.3,0.0,256058.0,52.0,3.9
+"Tek Grove, LLC",44.2,84.6,103840.0,13.0,1.6
+"M.C. Dean, Inc.",44.2,70.0,130078.0,10.0,1.9
+The University of Memphis,44.1,42.9,80705.0,14.0,1.3
+TOPROW RESOURCES,44.1,0.0,253491.0,55.0,3.9
+SunLight Technologies Inc,44.0,90.0,102690.0,10.0,1.4
+Brandeis University,44.0,76.9,81662.0,13.0,1.2
+"Mican Technologies, Inc.",44.0,52.9,144990.0,17.0,3.8
+Globant IT Services Corp.,43.9,63.6,163924.0,11.0,2.8
+"Grandison Management, Inc.",43.8,93.3,71308.0,15.0,1.0
+"Baker Tilly Advisory Group, LP",43.8,80.0,96161.0,10.0,1.7
+Jefferies LLC,43.7,46.4,174643.0,28.0,2.7
+Black Construction Corporation,43.6,83.3,56294.0,12.0,1.2
+"Juniper Networks (US), Inc.",43.6,73.1,128464.0,26.0,2.3
+Van Andel Research Institute,43.6,63.6,79516.0,11.0,2.2
+CORPORATE SOLUTIONS GENERAL INC,43.6,71.4,105168.0,21.0,2.5
+WALL STREET CONSULTING SERVICES LLC,43.6,90.9,83491.0,11.0,1.0
+"Triad National Security, LLC",43.5,54.5,137555.0,22.0,1.5
+"V-Soft Consulting Group, INC",43.5,60.2,101313.0,83.0,2.2
+Genuine Parts Company,43.4,59.3,134221.0,27.0,3.2
+University of Notre Dame du Lac,43.4,46.4,92165.0,28.0,2.0
+DATADEX SYSTEMS,43.4,1.6,242524.0,63.0,3.7
+Thoughtwave Software and Solutions Inc,43.4,72.7,105243.0,11.0,2.4
+Kollasoft Inc,43.4,75.0,112068.0,12.0,2.0
+The Nature Conservancy,43.3,46.2,123527.0,13.0,3.3
+Schlumberger Technology Corporation,43.2,57.1,137119.0,14.0,2.1
+Embry-Riddle Aeronautical University,43.1,65.5,82147.0,29.0,1.9
+"Strategic Systems, Inc.",43.1,90.0,93737.0,10.0,1.1
+"The Broad Institute, Inc.",43.0,56.2,91452.0,16.0,1.4
+FAXIANIT INC,43.0,80.0,93856.0,10.0,2.0
+"Strategic Staffing Solutions, L.C.",42.8,50.0,137831.0,24.0,3.2
+"LiveRamp, Inc.",42.7,60.0,203880.0,10.0,2.6
+Harmony Public Schools,42.6,88.9,52140.0,18.0,1.0
+RJT Compuquest Inc. dba Apolis,42.6,75.0,110506.0,28.0,1.9
+"Kyyba, Inc.",42.6,52.9,118038.0,17.0,2.0
+LGL Technologies LLC,42.5,72.7,98040.0,11.0,2.3
+Kansas State University,42.5,81.2,64332.0,16.0,1.7
+UNIVERSITY OF DELAWARE,42.5,69.2,94717.0,13.0,2.0
+Apex-2000 Inc,42.5,72.7,121457.0,11.0,2.0
+"IT RESOURCES, INC.",42.4,72.7,109752.0,11.0,2.0
+Rush University Medical Center,42.3,50.0,108602.0,20.0,2.3
+Iowa State University of Science and Technology,42.2,55.9,80529.0,34.0,1.5
+Centraprise Corp,42.2,69.2,108230.0,13.0,2.5
+"University of Maryland, Baltimore County",42.0,63.6,88120.0,11.0,1.1
+"Relevantz Technology Services, Inc.",42.0,66.7,117625.0,12.0,1.7
+"Fermi Forward Discovery Group, LLC",41.6,61.5,87959.0,39.0,1.7
+BorgWarner PDS (USA) Inc.,41.6,60.0,101925.0,15.0,2.8
+SIGMA SOFTWARE LLC,41.5,73.3,107457.0,15.0,2.1
+"Goken America, LLC",41.5,57.9,97111.0,19.0,1.9
+Louisiana State University and A&M College,41.5,45.0,83317.0,20.0,1.2
+"Magna Electronics, Inc.",41.5,66.7,112063.0,18.0,2.6
+PRISTEN IT SYSTEMS INC,41.5,80.0,81634.0,10.0,1.7
+The University of Alabama,41.5,57.9,87944.0,19.0,1.1
+"Blackstone, Inc.",41.3,42.1,176842.0,19.0,3.2
+Lead IT Corporation,41.3,84.6,95410.0,13.0,1.2
+Albert Einstein College of Medicine ,40.8,54.5,83683.0,33.0,1.8
+EFICENS SYSTEMS INC,40.8,53.7,89978.0,95.0,1.9
+"Dropbox, Inc.",40.8,42.9,188836.0,14.0,2.7
+Unicon Pharma Inc,40.8,71.4,88826.0,14.0,2.0
+RESEARCH FOUNDATION OF SUNY AT BUFFALO,40.7,76.9,66352.0,13.0,1.3
+"SUTHERLAND DIGITAL SERVICES, INC",40.6,63.6,117009.0,11.0,2.8
+University of Wisconsin System,40.4,38.0,77811.0,108.0,1.3
+"SG Americas Operational Services, LLC",40.3,50.0,135908.0,12.0,2.2
+Cyma Systems Inc,40.1,66.7,123088.0,12.0,2.2
+"VED Software Services, Inc.",40.1,76.9,96378.0,13.0,1.6
+Florida Institute of Technology,40.0,63.6,75073.0,11.0,1.6
+EVERCORE PARTNERS SERVICES EAST LLC,40.0,50.0,183500.0,10.0,3.3
+MAGTECH CONSULTING AND SOLUTIONS DEVELOPMENT CORPORATION,39.8,75.0,94731.0,16.0,1.6
+"Nomura Securities International, Inc.",39.7,45.5,167190.0,11.0,2.8
+Brown University,39.6,57.1,87456.0,21.0,1.6
+GEEKSOFT LLC,39.5,70.0,110802.0,10.0,2.1
+University of Hawaii,39.2,40.7,106439.0,27.0,2.0
+Apptad Inc,39.0,70.0,105668.0,10.0,2.0
+Palni Inc.,39.0,70.0,99160.0,10.0,2.0
+Massachusetts Mutual Life Insurance Company,38.9,47.6,142793.0,21.0,3.1
+FIRSTNET GLOBAL LLC,38.9,68.8,95195.0,16.0,1.9
+Microchip Technology Inc.,38.9,66.7,107189.0,18.0,2.0
+Starbucks Coffee Company,38.8,31.9,153583.0,69.0,2.8
+BPA International Inc,38.8,81.8,48402.0,11.0,1.0
+ADVITHRI TECHNOLOGIES LLC,38.7,63.6,95631.0,22.0,2.0
+University of Rhode Island,38.7,70.0,91102.0,10.0,1.7
+The University of Kansas,38.7,55.6,76155.0,18.0,1.2
+GLOBAL IT SOLUTIONS INC,38.4,61.5,118731.0,13.0,2.5
+"University of Nevada, Las Vegas",38.4,50.0,101055.0,12.0,1.7
+Temple University--A Commonwealth University,38.4,50.0,76694.0,22.0,1.5
+University of Connecticut Health Center,38.3,50.0,121307.0,10.0,2.0
+COOLSOFT LLC,38.2,53.8,99719.0,13.0,2.8
+University of Wyoming,37.9,70.0,65946.0,10.0,1.1
+"SupraSoft, Inc.",37.8,63.6,101537.0,11.0,2.1
+Colorado State University,37.6,44.4,81347.0,27.0,1.7
+Saint Louis University,37.1,40.0,85243.0,15.0,1.5
+HL Mando America Corporation,37.1,50.0,101314.0,12.0,2.0
+Georgia-Pacific Consumer Operations LLC,37.0,38.5,119231.0,13.0,2.5
+Rensselaer Polytechnic Institute,36.9,55.6,82327.0,18.0,1.7
+DataStack Technologies LLC,36.7,69.2,99584.0,13.0,1.5
+Georgetown University,36.7,36.4,89485.0,44.0,1.3
+University Corporation for Atmospheric Research,36.7,50.0,98323.0,12.0,2.2
+EZ4 Technologies LLC,36.6,63.6,102058.0,11.0,2.0
+"10x Genomics, Inc.",36.6,33.3,174139.0,18.0,3.4
+"Prime Healthcare Management, Inc",36.4,60.0,79564.0,10.0,1.2
+Milwaukee Electric Tool Corporation,36.3,37.5,113786.0,16.0,3.1
+Merkle Inc.,36.2,41.7,122181.0,12.0,2.7
+"Molex, LLC",35.8,39.4,119129.0,33.0,2.4
+Appridat Solutions LLC,35.5,54.5,109212.0,11.0,2.0
+Dorchester School District Two,35.0,54.5,57680.0,11.0,1.0
+"SRS Consulting, Inc.",34.9,48.6,118329.0,35.0,2.0
+Research Corporation of the University of Hawaii,34.9,47.4,77327.0,19.0,1.9
+"Kelly Services, Inc.",34.1,30.4,118848.0,23.0,2.0
+Lexington County School District One,34.1,50.0,55703.0,12.0,1.0
+"Pacific Biosciences of California, Inc.",33.9,50.0,143631.0,10.0,2.4
+"Info Services, LLC",33.9,50.0,117569.0,12.0,2.2
+"Prodapt North America, Inc.",33.5,46.2,116450.0,13.0,2.1
+Trustees of Dartmouth College,33.3,36.0,85088.0,25.0,1.2
+RYZLINK CORP,33.1,62.5,105547.0,16.0,1.0
+TEXAS TECH UNIVERSITY HEALTH SCIENCES CENTER,32.5,54.2,66394.0,24.0,1.7
+Fuyao Glass America Inc.,32.4,60.0,74895.0,10.0,1.1
+SYRAINFOTEK LLC,32.3,50.0,104256.0,10.0,2.2
+ADAEQUARE INC,32.3,46.4,111511.0,28.0,2.0
+Guthrie Lourdes Hospital,31.8,50.0,81120.0,42.0,1.0
+The Scripps Research Institute,31.7,38.9,74328.0,18.0,1.7
+Camelot Integrated Solutions Inc,31.2,58.3,96753.0,12.0,1.3
+TechVirtue LLC,30.7,46.2,109176.0,13.0,1.9
+"InnoCore Solutions, Inc",30.6,40.0,106765.0,15.0,2.3
+NORTH DAKOTA STATE UNIVERSITY,30.4,47.1,77982.0,17.0,1.1
+Safeway Inc. ,30.3,23.1,169316.0,26.0,2.5
+"VERVENEST TECHNOLOGIES, INC.",30.3,50.0,97248.0,14.0,1.8
+"OCLC, Inc.",29.7,18.8,110262.0,16.0,2.4
+"Tek Ninjas Solutions,LLC.",28.5,40.0,110939.0,15.0,2.2
+"ROCKY MOUNTAIN INSTITUTE, INC.",27.9,28.6,85445.0,14.0,2.3
+LOUISIANA STATE UNIVERSITY HEALTH SCIENCES CENTER NEW ORLEANS,27.5,33.3,73400.0,12.0,1.7
+The University of Vermont,26.7,30.0,76413.0,10.0,1.9
+"Hire IT People, Inc",26.2,23.5,102165.0,17.0,1.9
+Nevro Corp,25.8,18.2,132186.0,11.0,3.2
+RELANTO INC.,24.5,25.0,115938.0,16.0,2.0
+"Hire IT people, Inc",23.9,3.8,120760.0,26.0,2.0
+SWANKTEK INC,23.8,13.0,115516.0,46.0,2.5
+Rochester Institute of Technology,23.7,41.7,57361.0,12.0,1.2
+Infocons Inc,23.7,3.4,99960.0,145.0,1.9
+Creative Team LLC,23.7,41.7,72116.0,12.0,1.0
+"TOP EDGE TECHNOLOGY, INC.",23.3,29.4,97149.0,17.0,1.8
+UChicago Argonne LLC,22.5,18.2,77073.0,11.0,1.5
+Decision Six Inc,21.8,4.2,90666.0,166.0,1.9
+INTERNATIONAL SOFTWARE SYSTEMS INC,20.6,16.7,98240.0,24.0,1.8
+ARDOR IT SOLUTIONS INC,20.2,16.7,97580.0,24.0,2.0
+"Saama Technologies, LLC.",19.5,0.0,123918.0,11.0,2.4
+"Finfare, Inc.",19.5,0.0,150671.0,10.0,2.9
+"Fermi Research Alliance, LLC",14.7,0.0,89947.0,10.0,2.6
+"THOUGHT BYTE, INC.",13.9,0.0,100740.0,13.0,2.0
+"Sirrus Software Services, Inc.",7.1,0.0,71947.0,21.0,1.0
