@@ -4,7 +4,9 @@
 
 A live data app that cuts through the noise. Search any employer and instantly see their H-1B sponsorship track record using 114,000+ real U.S. Department of Labor filings.
 
-**[🚀 Live App](https://h1b-opportunity-scorer.streamlit.app)** | Built by [Chidvi Meduri](https://github.com/Chidvy)
+**[🚀 Live App](https://h1b-sponsorship-tracker.streamlit.app)**
+
+ | Built by [Chidvi Meduri](https://github.com/Chidvy)
 
 ---
 
