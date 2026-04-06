@@ -61,11 +61,28 @@ if search:
                 )
 
 st.divider()
-st.markdown("### 🏆 Top 1000 H-1B Sponsors (min. 10 filings)")
-top1000 = df.sort_values('SCORE', ascending=False).head(1000)
+st.markdown("### 🏆 H-1B Sponsor Rankings")
+
+col_f1, col_f2, col_f3, col_f4 = st.columns(4)
+with col_f1:
+    min_score = st.slider("Minimum Score", 0, 100, 60)
+with col_f2:
+    min_cases = st.slider("Minimum Filings", 10, 500, 10)
+with col_f3:
+    min_wage = st.slider("Min Avg Wage ($K)", 0, 400, 0) * 1000
+with col_f4:
+    sort_by = st.selectbox("Sort By", ['SCORE','CERT_RATE','AVG_WAGE','TOTAL_CASES'])
+
+filtered = df[
+    (df['SCORE'] >= min_score) &
+    (df['TOTAL_CASES'] >= min_cases) &
+    (df['AVG_WAGE'] >= min_wage)
+].sort_values(sort_by, ascending=False)
+
+st.markdown(f"**{len(filtered)} employers match your filters**")
 st.dataframe(
-    top1000[['EMPLOYER_NAME','SCORE','CERT_RATE','AVG_WAGE','TOTAL_CASES','AVG_LEVEL']].reset_index(drop=True),
-    use_container_width=True
+    filtered[['EMPLOYER_NAME','SCORE','CERT_RATE','AVG_WAGE','TOTAL_CASES','AVG_LEVEL']].reset_index(drop=True),
+    width='stretch'
 )
 
 st.divider()
