@@ -62,7 +62,7 @@ if search:
 
 st.divider()
 st.markdown("### 🏆 Top 1000 H-1B Sponsors (min. 10 filings)")
-top500 = df.sort_values('SCORE', ascending=False).head(1000)
+top1000 = df.sort_values('SCORE', ascending=False).head(1000)
 st.dataframe(
     top1000[['EMPLOYER_NAME','SCORE','CERT_RATE','AVG_WAGE','TOTAL_CASES','AVG_LEVEL']].reset_index(drop=True),
     use_container_width=True
